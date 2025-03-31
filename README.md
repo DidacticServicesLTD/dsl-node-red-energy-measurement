@@ -29,7 +29,7 @@ Ensure your device is connected to the same subnet to access the OPC UA server a
 
 ## 📁 Project Structure
 
-- `flows.json` / `flows_cred.json`: Complete flow configurations
+- `dsl-node-red-energy-measurement.json` / `dsl-node-red-energy-measurement_cred.json`: Flow configurations
 - `settings.js`: Custom Node-RED settings
 - `package.json`: Node dependencies
 - `public/`: Static assets including DSL branding
