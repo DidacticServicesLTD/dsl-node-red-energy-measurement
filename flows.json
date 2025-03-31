@@ -1,0 +1,5270 @@
+[
+    {
+        "id": "8c3ff8fe6f7d68da",
+        "type": "tab",
+        "label": "Home Page - Resources",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "f8d8432b55ae0c20",
+        "type": "tab",
+        "label": "OPC UA",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "dd7a3c5f0b579f48",
+        "type": "tab",
+        "label": "Active Energy",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "1b108ac311e2e795",
+        "type": "tab",
+        "label": "Active Power",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "2423aec0038d214f",
+        "type": "tab",
+        "label": "Flow",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "4c1437878101c650",
+        "type": "tab",
+        "label": "Pressure",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "09743a46fd7016b8",
+        "type": "group",
+        "z": "dd7a3c5f0b579f48",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6994eb7da070634b",
+            "1b1ee82a5a583818",
+            "224cd9f6583550ac",
+            "c0cb870991979b1c",
+            "df1d74c271c25d72",
+            "805a9bc4843998c4",
+            "643d59d4946e0b54",
+            "d68de436c8c3888b",
+            "a1b2c3d4e5f6",
+            "b7c8d9e0f1a2",
+            "c1d2e3f4g5h6",
+            "d3e4f5g6h7i8",
+            "e5f6g7h8i9j0",
+            "fb4e9481aac1b10d",
+            "a57ec55b177e631c",
+            "54a01ed3e8be8d73",
+            "3fa56dd7079a6158",
+            "fa968ea113590865",
+            "ba9a62f42f58e925"
+        ],
+        "x": 34,
+        "y": 19,
+        "w": 1092,
+        "h": 322
+    },
+    {
+        "id": "93c72102cdb3af70",
+        "type": "group",
+        "z": "dd7a3c5f0b579f48",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "59c7013dde56d97a",
+            "be8ff26dba3b1951",
+            "ce0f75c8b7dfa12f",
+            "5ec1fb11dc2c7cc6",
+            "9dac8a6844bbdff5",
+            "84ac3e2894dacc1c",
+            "55e941e1b5eeca21"
+        ],
+        "x": 34,
+        "y": 959,
+        "w": 832,
+        "h": 262
+    },
+    {
+        "id": "781e3931a74b9fae",
+        "type": "group",
+        "z": "8c3ff8fe6f7d68da",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e663b074fed81a56",
+            "dc5449ba492e1fcd",
+            "d362dcc8b473971c",
+            "6026e778934d100f",
+            "9156a9e75702c092",
+            "f41b17a5c9513d58",
+            "fe77180b6290cc6c",
+            "fcfa5f63fdc7e980",
+            "89c4fa5eb4c70dfa",
+            "d34293b966266e31",
+            "7dd2f39fd58d1c2b",
+            "cc9c3e371910b236"
+        ],
+        "x": 54,
+        "y": 259,
+        "w": 932,
+        "h": 462
+    },
+    {
+        "id": "cf6169ae1b74fa7f",
+        "type": "group",
+        "z": "1b108ac311e2e795",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ec83a3ba480e41b7",
+            "ae22d328c73e2ec8",
+            "0e2cfb83e166d863",
+            "66af69a313b8512d",
+            "8e9a06731f91d677",
+            "e4adb330d0f0ea67",
+            "c539040bc6c4f89d",
+            "7eca586eefe601e6",
+            "aa0789d25e9edf41",
+            "ae60da4960d3b3e9",
+            "b1ea26c4f77a4a8f",
+            "ab353279586f3d04",
+            "cfe2e99661fe431a",
+            "e61a95be04c973aa",
+            "ca65e2179dfeb0f5",
+            "a73c55f8c748a795"
+        ],
+        "x": 34,
+        "y": 19,
+        "w": 1012,
+        "h": 282
+    },
+    {
+        "id": "5beb30bb6ff1b20e",
+        "type": "group",
+        "z": "1b108ac311e2e795",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a6112772eb1e4480",
+            "349d410f9435491a",
+            "f6f95d0bcc6bf0a4",
+            "595e82efad6b6aea",
+            "5548f1df5b45f331",
+            "53098d3cd6446ba2",
+            "1c069188ea785027",
+            "29b13950950e2827",
+            "c3b40a1544c0a175"
+        ],
+        "x": 34,
+        "y": 319,
+        "w": 862,
+        "h": 162
+    },
+    {
+        "id": "c37d86fb5ad5e664",
+        "type": "group",
+        "z": "1b108ac311e2e795",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "afb0f36848ade3d6",
+            "a45689b1485cfab0",
+            "4b81b97fbefaedac",
+            "b3aa1bef386b4d91",
+            "75b8d9c9b5adb01d",
+            "9f6e0235deecc7a8",
+            "0500c09aea14fc78"
+        ],
+        "x": 34,
+        "y": 499,
+        "w": 772,
+        "h": 242
+    },
+    {
+        "id": "e7563c533ae2d4c4",
+        "type": "group",
+        "z": "2423aec0038d214f",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "253233ec960afb29",
+            "21c03cecd00194ac",
+            "f48329c4276f9947",
+            "fcfb153c41ba6667",
+            "8ad79e1c8ec66f59",
+            "042c7b8ecf3566be",
+            "0d47de677a953f11",
+            "85eb3787551860eb",
+            "10de8ba15912b12f",
+            "a42436cba03d7e29",
+            "ead10fb1df50c8e5",
+            "07b41c0eb08f70b9",
+            "17237be5eb21d119",
+            "4e25615a39b21b65",
+            "d9ceec1eaef7bc0e",
+            "70287e57d22ef9eb"
+        ],
+        "x": 34,
+        "y": 19,
+        "w": 1012,
+        "h": 282
+    },
+    {
+        "id": "d9da090e25443aa6",
+        "type": "group",
+        "z": "2423aec0038d214f",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "188a0794c8e87e81",
+            "1349a5a617a95c38",
+            "c7eead12425708f4",
+            "94c5379c64feeb9f",
+            "c34cd68ce1fe9cbd",
+            "e147d0891ee7889e",
+            "cc256792ad48c187",
+            "fcb11f1ff7c03cdc",
+            "2c1bd40bc4e86ba2"
+        ],
+        "x": 34,
+        "y": 319,
+        "w": 862,
+        "h": 162
+    },
+    {
+        "id": "e906c35c9b1fb59a",
+        "type": "group",
+        "z": "2423aec0038d214f",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7165e8c1a9ef4864",
+            "2f5611016848675a",
+            "73dce210508fadeb",
+            "739fdc118c6780ab",
+            "afef9ab6555f9b65",
+            "14d0030d76f0356b",
+            "b9a6b8c90eac4cbe"
+        ],
+        "x": 34,
+        "y": 499,
+        "w": 772,
+        "h": 242
+    },
+    {
+        "id": "b42762c0e39a1b4e",
+        "type": "group",
+        "z": "4c1437878101c650",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a07a65f172dc278c",
+            "835026a3198ec43c",
+            "b62f087f0abe238e",
+            "ee288387f5106e5f",
+            "0784b00d2a90274a",
+            "b16a0414ebfabb26",
+            "9183096907318d3d",
+            "433546f9f604eb8c",
+            "4bdeecb03f5e9db8",
+            "87363b733bd19118",
+            "44859d6a6bf23b85",
+            "01b7db9b5b036dbf",
+            "e145dda9fd36646d",
+            "a619286b7c38d7bc",
+            "37c9d22a3a171320",
+            "b576c2adba183b5b"
+        ],
+        "x": 34,
+        "y": 19,
+        "w": 1012,
+        "h": 282
+    },
+    {
+        "id": "6461491bafab771a",
+        "type": "group",
+        "z": "4c1437878101c650",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0c980275658492d8",
+            "bfce3221d352bbb0",
+            "38e9589e6fa26133",
+            "37c95a83f00af6a6",
+            "9e99e30be4e208c5",
+            "ba2d2c3728765757",
+            "065dd52318a019c2",
+            "1e0c2e4c43269991",
+            "7d2fbffef28092b2"
+        ],
+        "x": 34,
+        "y": 319,
+        "w": 862,
+        "h": 162
+    },
+    {
+        "id": "dc8b91eef617bb79",
+        "type": "group",
+        "z": "4c1437878101c650",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "cf6277ea3da726ff",
+            "2ba62387770d0afb",
+            "15a2591b1c3a75f6",
+            "92141a3b7949d055",
+            "6947732fced243c4",
+            "129758c0903562ae",
+            "8d56faf687399443"
+        ],
+        "x": 34,
+        "y": 499,
+        "w": 772,
+        "h": 242
+    },
+    {
+        "id": "97747f01c70d5474",
+        "type": "group",
+        "z": "8c3ff8fe6f7d68da",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "60f2527f1b9dabf8",
+            "988f94f2880ccffb",
+            "47a1a4dfdaa859ee",
+            "50fd9e05efc7d2fd"
+        ],
+        "x": 54,
+        "y": 19,
+        "w": 232,
+        "h": 222
+    },
+    {
+        "id": "1d4f8e0f285f4e8a",
+        "type": "group",
+        "z": "dd7a3c5f0b579f48",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "calculate_trees",
+            "energy_input",
+            "7d7e1d7001d8b71e",
+            "6b39eec9cce0a484",
+            "abeacd51c72a9ee3",
+            "e8b30adf4572c46d",
+            "a4581b3a6682ad3a",
+            "9d0abc1a174a352f",
+            "67376ad4626ed378",
+            "d4fab133fc4f6a91",
+            "a71da6eaa8f4eace",
+            "1562643625e6b7ab",
+            "f55b27bf4c968a65",
+            "c4bdc9231559e2e7",
+            "fb7c09751e27ac40",
+            "70ffe10b4859702b",
+            "2858ee0ee725f365",
+            "3352c6f19e085fdd",
+            "493f56f05fbbd7cb",
+            "02fa43e1019879a1",
+            "bill_dropdown",
+            "4546db7ae90779ed",
+            "849e597fe877ef27",
+            "8226a5a70cebfe9f"
+        ],
+        "x": 34,
+        "y": 359,
+        "w": 862,
+        "h": 582
+    },
+    {
+        "id": "c2a96921ced4982d",
+        "type": "ui-base",
+        "name": "Home",
+        "path": "/dashboard",
+        "appIcon": "https://www.didacticservices.co.uk",
+        "includeClientData": true,
+        "acceptsClientConfig": [
+            "ui-notification",
+            "ui-control"
+        ],
+        "showPathInSidebar": false,
+        "headerContent": "page",
+        "navigationStyle": "default",
+        "titleBarStyle": "default",
+        "showReconnectNotification": true,
+        "notificationDisplayTime": "1",
+        "showDisconnectNotification": true
+    },
+    {
+        "id": "c969e2285397351c",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#0094CE",
+            "bgPage": "#eeeeee",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "67e7591316bf9447",
+        "type": "ui-page",
+        "name": "Active Power",
+        "ui": "c2a96921ced4982d",
+        "path": "/ActivePower",
+        "icon": "mdi-current-dc",
+        "layout": "grid",
+        "theme": "c969e2285397351c",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 3,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "b3b365bbf6fcd6df",
+        "type": "ui-group",
+        "name": "Active Power",
+        "page": "67e7591316bf9447",
+        "width": "24",
+        "height": "16",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "b4b87b29746946e5",
+        "type": "ui-page",
+        "name": "Flow",
+        "ui": "c2a96921ced4982d",
+        "path": "/Flow",
+        "icon": "mdi-air-filter",
+        "layout": "grid",
+        "theme": "c969e2285397351c",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 4,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "b02d226c022eb354",
+        "type": "ui-group",
+        "name": "Flow",
+        "page": "b4b87b29746946e5",
+        "width": "24",
+        "height": "16",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "87cd11054afea666",
+        "type": "ui-page",
+        "name": "Pressure",
+        "ui": "c2a96921ced4982d",
+        "path": "/Pressure",
+        "icon": "mdi-gauge",
+        "layout": "grid",
+        "theme": "c969e2285397351c",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 5,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "7a05cf576cb54b0c",
+        "type": "ui-group",
+        "name": "Pressure",
+        "page": "87cd11054afea666",
+        "width": "24",
+        "height": "16",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "b6c05309636c260f",
+        "type": "OPCUA-IIoT-Connector",
+        "discoveryUrl": "",
+        "endpoint": "opc.tcp://172.21.0.60:4840",
+        "endpointMustExist": false,
+        "keepSessionAlive": true,
+        "loginEnabled": false,
+        "name": "EMB",
+        "showErrors": false,
+        "securityPolicy": "None",
+        "securityMode": "None",
+        "individualCerts": false,
+        "publicCertificateFile": "",
+        "privateKeyFile": "",
+        "defaultSecureTokenLifetime": "",
+        "autoSelectRightEndpoint": false,
+        "strategyMaxRetry": "",
+        "strategyInitialDelay": "",
+        "strategyMaxDelay": "",
+        "strategyRandomisationFactor": "",
+        "requestedSessionTimeout": "",
+        "connectionStartDelay": "",
+        "reconnectDelay": "",
+        "maxBadSessionRequests": "10"
+    },
+    {
+        "id": "18a72844d644cc13",
+        "type": "ui-page",
+        "name": "Active Energy",
+        "ui": "c2a96921ced4982d",
+        "path": "/ActiveEnergy",
+        "icon": "mdi-lightning-bolt ",
+        "layout": "grid",
+        "theme": "c969e2285397351c",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 2,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "9bbb1da2d7bfc642",
+        "type": "ui-group",
+        "name": "Active Current Energy",
+        "page": "18a72844d644cc13",
+        "width": "12",
+        "height": "1",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "6943bf753b6f05d3",
+        "type": "sqlitedb",
+        "db": "EMB.db",
+        "mode": "RWC"
+    },
+    {
+        "id": "da0069afc5dcf5a7",
+        "type": "ui-page",
+        "name": "Home Page",
+        "ui": "c2a96921ced4982d",
+        "path": "/Home",
+        "icon": "home",
+        "layout": "grid",
+        "theme": "c969e2285397351c",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 1,
+        "className": "",
+        "visible": true,
+        "disabled": false
+    },
+    {
+        "id": "13f587f43a4aae64",
+        "type": "ui-group",
+        "name": "Energy Measurement Box (EMB)",
+        "page": "da0069afc5dcf5a7",
+        "width": "12",
+        "height": "1",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "e663b074fed81a56",
+        "type": "ui-dropdown",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "781e3931a74b9fae",
+        "group": "13f587f43a4aae64",
+        "name": "Select Resources",
+        "label": "Choose up to 3 Resources",
+        "order": 5,
+        "width": 3,
+        "height": 2,
+        "passthru": true,
+        "multiple": true,
+        "chips": false,
+        "clearable": false,
+        "options": [
+            {
+                "label": "Front Mag",
+                "value": "Front Mag",
+                "type": "str"
+            },
+            {
+                "label": "Measuring",
+                "value": "Measuring",
+                "type": "str"
+            },
+            {
+                "label": "iDrill",
+                "value": "iDrill",
+                "type": "str"
+            },
+            {
+                "label": "iPick",
+                "value": "iPick",
+                "type": "str"
+            },
+            {
+                "label": "Camera",
+                "value": "Camera",
+                "type": "str"
+            },
+            {
+                "label": "Back Mag",
+                "value": "Back Mag",
+                "type": "str"
+            },
+            {
+                "label": "Pressure",
+                "value": "Pressure",
+                "type": "str"
+            },
+            {
+                "label": "Turning",
+                "value": "Turning",
+                "type": "str"
+            },
+            {
+                "label": "Labelling",
+                "value": "Labelling",
+                "type": "str"
+            },
+            {
+                "label": "Output",
+                "value": "Output",
+                "type": "str"
+            },
+            {
+                "label": "ASRS",
+                "value": "ASRS",
+                "type": "str"
+            },
+            {
+                "label": "RASS",
+                "value": "RASS",
+                "type": "str"
+            }
+        ],
+        "topic": "",
+        "topicType": "str",
+        "className": "",
+        "typeIsComboBox": true,
+        "msgTrigger": "onChange",
+        "x": 170,
+        "y": 620,
+        "wires": [
+            [
+                "fcfa5f63fdc7e980",
+                "cc9c3e371910b236"
+            ]
+        ]
+    },
+    {
+        "id": "dc5449ba492e1fcd",
+        "type": "function",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "781e3931a74b9fae",
+        "name": "Save Selected Lines",
+        "func": "//global.set(\"selectedLine\", msg.payload);\nmsg.payload = msg.payload.selectedResources;\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 540,
+        "wires": [
+            [
+                "d362dcc8b473971c",
+                "9156a9e75702c092"
+            ]
+        ]
+    },
+    {
+        "id": "d362dcc8b473971c",
+        "type": "ui-text",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "781e3931a74b9fae",
+        "group": "13f587f43a4aae64",
+        "order": 6,
+        "width": 0,
+        "height": 4,
+        "name": "",
+        "label": "Your Selected Resources:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "style": true,
+        "font": "",
+        "fontSize": "30",
+        "color": "#0092db",
+        "wrapText": false,
+        "className": "",
+        "x": 850,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "60f2527f1b9dabf8",
+        "type": "ui-template",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "97747f01c70d5474",
+        "group": "13f587f43a4aae64",
+        "name": "DSL/FESTO Logo",
+        "order": 1,
+        "width": 0,
+        "height": 3,
+        "head": "",
+        "format": "<div style=\"text-align:center; padding: 10px;\">\n    <img src=\"/logo/logo.png\" alt=\"Company Logo\" style=\"width: 800px; height: auto;\">\n</div>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 170,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6026e778934d100f",
+        "type": "ui-text",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "781e3931a74b9fae",
+        "group": "13f587f43a4aae64",
+        "order": 4,
+        "width": 8,
+        "height": 2,
+        "name": "",
+        "label": "Which resources you have the Energy Measurment Box connected to?",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "style": true,
+        "font": "",
+        "fontSize": "24",
+        "color": "#717171",
+        "wrapText": false,
+        "className": "",
+        "x": 430,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "9156a9e75702c092",
+        "type": "function",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "781e3931a74b9fae",
+        "name": "Insert data into ConnectedResources tbl",
+        "func": "let Resource1 = global.get(\"Resource1\") || \"Resource1\";\nlet Resource2 = global.get(\"Resource2\") || \"Resource2\";\nlet Resource3 = global.get(\"Resource3\") || \"Resource3\";\n\nmsg.topic = `\n    INSERT INTO ConnectedResources (Resource1, Resource2, Resource3)\n    VALUES ('${Resource1}', '${Resource2}', '${Resource3}');\n`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 780,
+        "y": 540,
+        "wires": [
+            [
+                "f41b17a5c9513d58"
+            ]
+        ]
+    },
+    {
+        "id": "f41b17a5c9513d58",
+        "type": "sqlite",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "781e3931a74b9fae",
+        "mydb": "6943bf753b6f05d3",
+        "sqlquery": "msg.topic",
+        "sql": "show tables;",
+        "name": "EMB",
+        "x": 910,
+        "y": 460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fe77180b6290cc6c",
+        "type": "function",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "781e3931a74b9fae",
+        "name": "Delete old resources",
+        "func": "\nmsg.topic = `\n    DELETE FROM ConnectedResources \n    `;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 460,
+        "wires": [
+            [
+                "f41b17a5c9513d58"
+            ]
+        ]
+    },
+    {
+        "id": "fcfa5f63fdc7e980",
+        "type": "function",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "781e3931a74b9fae",
+        "name": "to Reset",
+        "func": "if (msg.payload){\n    msg.payload = [];\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 680,
+        "wires": [
+            [
+                "d362dcc8b473971c"
+            ]
+        ]
+    },
+    {
+        "id": "89c4fa5eb4c70dfa",
+        "type": "function",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "781e3931a74b9fae",
+        "name": "Create ConnectedResources tbl",
+        "func": "msg.topic = `\n    CREATE TABLE IF NOT EXISTS ConnectedResources (\n        Resource1 TEXT,\n        Resource2 TEXT,\n        Resource3 TEXT\n    );\n`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 500,
+        "wires": [
+            [
+                "f41b17a5c9513d58"
+            ]
+        ]
+    },
+    {
+        "id": "d34293b966266e31",
+        "type": "link out",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "781e3931a74b9fae",
+        "name": "Resources",
+        "mode": "link",
+        "links": [
+            "2c1bd40bc4e86ba2",
+            "493f56f05fbbd7cb",
+            "7d2fbffef28092b2",
+            "c3b40a1544c0a175"
+        ],
+        "x": 395,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "7dd2f39fd58d1c2b",
+        "type": "function",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "781e3931a74b9fae",
+        "name": "Incorrect Resources",
+        "func": "let errorMsg = flow.get(\"incResources\") || \"\";\n\nif (errorMsg) {\n    msg.payload = `<span style=\"color: red; font-weight: bold;\">${errorMsg}</span>`;\n} else {\n    msg.payload = \"\";  // Clear text when there's no error\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 600,
+        "wires": [
+            [
+                "d362dcc8b473971c"
+            ]
+        ]
+    },
+    {
+        "id": "988f94f2880ccffb",
+        "type": "comment",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "97747f01c70d5474",
+        "name": "Logos",
+        "info": "",
+        "x": 130,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "47a1a4dfdaa859ee",
+        "type": "ui-template",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "97747f01c70d5474",
+        "group": "13f587f43a4aae64",
+        "name": "Copy right",
+        "order": 3,
+        "width": 0,
+        "height": 3,
+        "head": "",
+        "format": "<div style=\"text-align:center; padding: 10px; font-size: 14px; color: rgba(102, 102, 102, 0.5);\">\n    © 2025 Didactic Services Ltd. | All Rights Reserved <br>\n    For support, contact: <a href=\"mailto:support@didacticservices.co.uk\"\n        style=\"color: rgba(102, 102, 102, 0.7);\">support@didacticservices.co.uk</a>\n</div>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 150,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cc9c3e371910b236",
+        "type": "function",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "781e3931a74b9fae",
+        "name": "Save Resources",
+        "func": "let selectedResources = msg.payload;\nlet errMsg;\nlet msg2 = {};  // Initialize msg2 properly\n\n// Ensure payload is an array and contains less than 3 items\nif (!Array.isArray(selectedResources) || selectedResources.length > 3) {\n    node.warn(\"Invalid selection: Please select a maximum of 3 resources.\");\n    msg2.payload = \"Invalid selection: Please select a maximum of 3 resources!\"; // Corrected property name\n    flow.set(\"incResources\", msg2.payload);\n    return [null, msg2];  // Return null for first output and msg2 for second output\n}\n\n// Store selected resources globally\nglobal.set(\"Resource1\", selectedResources[0]);\nglobal.set(\"Resource2\", selectedResources[1]);\nglobal.set(\"Resource3\", selectedResources[2]);\n\n// Map them to generic names L1, L2, L3\nlet resourceMap = {\n    \"L1\": selectedResources[0],\n    \"L2\": selectedResources[1],\n    \"L3\": selectedResources[2]\n};\n\nglobal.set(\"resourceMap\", resourceMap);\n\nmsg.payload = {\n    selectedResources: selectedResources,\n    resourceMap: resourceMap\n};\n\n// Return msg to first output, nothing to second output in the valid case\nreturn [msg, null];",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 240,
+        "y": 540,
+        "wires": [
+            [
+                "fe77180b6290cc6c",
+                "89c4fa5eb4c70dfa",
+                "d34293b966266e31",
+                "dc5449ba492e1fcd"
+            ],
+            [
+                "7dd2f39fd58d1c2b"
+            ]
+        ]
+    },
+    {
+        "id": "50fd9e05efc7d2fd",
+        "type": "ui-template",
+        "z": "8c3ff8fe6f7d68da",
+        "g": "97747f01c70d5474",
+        "group": "",
+        "page": "",
+        "ui": "c2a96921ced4982d",
+        "name": "DSL Logo",
+        "order": 2,
+        "width": 0,
+        "height": 3,
+        "head": "",
+        "format": "<style>\n    .nr-dashboard-header {\n        position: absolute;\n        top: 0px;\n        right: 30px;\n        z-index: 1000;\n        background: transparent;\n        /* Remove background */\n        padding: 5px;\n    }\n\n    .nr-dashboard-header img {\n        height: 50px;\n        /* Adjust as needed */\n        max-width: 300px;\n        /* Adjust width */\n    }\n</style>\n\n<div class=\"nr-dashboard-header\">\n    <img src=\"/logo/DSL.png\" alt=\"Company Logo\">\n</div>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "widget:ui",
+        "className": "",
+        "x": 140,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a426ec8616a5b528",
+        "type": "inject",
+        "z": "f8d8432b55ae0c20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 110,
+        "y": 220,
+        "wires": [
+            [
+                "2dd7a53bca73a7c6",
+                "f774dba31ab6598c",
+                "ba9178d08179404c",
+                "59d4cdfb81d5d411",
+                "1cb4ea8da6f24ff1",
+                "cb50490fdf2b67b4",
+                "aeda78093befd88e",
+                "c29ce44ae156adbb",
+                "a991c0b15b9a5442",
+                "0c2f12a0c08fcfa6"
+            ]
+        ]
+    },
+    {
+        "id": "ed4d34a601e45ed5",
+        "type": "OPCUA-IIoT-Read",
+        "z": "f8d8432b55ae0c20",
+        "d": true,
+        "attributeId": "0",
+        "maxAge": "3",
+        "depth": 1,
+        "connector": "b6c05309636c260f",
+        "name": "",
+        "justValue": true,
+        "showStatusActivities": false,
+        "showErrors": false,
+        "parseStrings": false,
+        "historyDays": 1,
+        "x": 610,
+        "y": 220,
+        "wires": [
+            [
+                "93761beb7ce940a2"
+            ]
+        ]
+    },
+    {
+        "id": "2dd7a53bca73a7c6",
+        "type": "OPCUA-IIoT-Node",
+        "z": "f8d8432b55ae0c20",
+        "injectType": "read",
+        "nodeId": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PressureSensor.Pressure1.value",
+        "datatype": "Double",
+        "value": "",
+        "name": "Pressure 1",
+        "topic": "",
+        "showErrors": false,
+        "x": 370,
+        "y": 40,
+        "wires": [
+            [
+                "ed4d34a601e45ed5"
+            ]
+        ]
+    },
+    {
+        "id": "f774dba31ab6598c",
+        "type": "OPCUA-IIoT-Node",
+        "z": "f8d8432b55ae0c20",
+        "injectType": "read",
+        "nodeId": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PressureSensor.Pressure2.value",
+        "datatype": "Double",
+        "value": "",
+        "name": "Pressure 2",
+        "topic": "",
+        "showErrors": false,
+        "x": 370,
+        "y": 80,
+        "wires": [
+            [
+                "ed4d34a601e45ed5"
+            ]
+        ]
+    },
+    {
+        "id": "ba9178d08179404c",
+        "type": "OPCUA-IIoT-Node",
+        "z": "f8d8432b55ae0c20",
+        "injectType": "read",
+        "nodeId": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PressureSensor.Pressure3.value",
+        "datatype": "Double",
+        "value": "",
+        "name": "Pressure 3",
+        "topic": "",
+        "showErrors": false,
+        "x": 370,
+        "y": 120,
+        "wires": [
+            [
+                "ed4d34a601e45ed5"
+            ]
+        ]
+    },
+    {
+        "id": "59d4cdfb81d5d411",
+        "type": "OPCUA-IIoT-Node",
+        "z": "f8d8432b55ae0c20",
+        "injectType": "read",
+        "nodeId": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.FlowSensor.Flow1.value",
+        "datatype": "Double",
+        "value": "",
+        "name": "Flow 1",
+        "topic": "",
+        "showErrors": false,
+        "x": 350,
+        "y": 180,
+        "wires": [
+            [
+                "ed4d34a601e45ed5"
+            ]
+        ]
+    },
+    {
+        "id": "1cb4ea8da6f24ff1",
+        "type": "OPCUA-IIoT-Node",
+        "z": "f8d8432b55ae0c20",
+        "injectType": "read",
+        "nodeId": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.FlowSensor.Flow2.value",
+        "datatype": "Double",
+        "value": "",
+        "name": "Flow 2",
+        "topic": "",
+        "showErrors": false,
+        "x": 350,
+        "y": 220,
+        "wires": [
+            [
+                "ed4d34a601e45ed5"
+            ]
+        ]
+    },
+    {
+        "id": "cb50490fdf2b67b4",
+        "type": "OPCUA-IIoT-Node",
+        "z": "f8d8432b55ae0c20",
+        "injectType": "read",
+        "nodeId": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.FlowSensor.Flow3.value",
+        "datatype": "Double",
+        "value": "",
+        "name": "Flow 3",
+        "topic": "",
+        "showErrors": false,
+        "x": 350,
+        "y": 260,
+        "wires": [
+            [
+                "ed4d34a601e45ed5"
+            ]
+        ]
+    },
+    {
+        "id": "aeda78093befd88e",
+        "type": "OPCUA-IIoT-Node",
+        "z": "f8d8432b55ae0c20",
+        "injectType": "read",
+        "nodeId": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PowerMeter.ActivePowerL1.value",
+        "datatype": "Double",
+        "value": "",
+        "name": "Active Power 1",
+        "topic": "",
+        "showErrors": false,
+        "x": 380,
+        "y": 320,
+        "wires": [
+            [
+                "ed4d34a601e45ed5"
+            ]
+        ]
+    },
+    {
+        "id": "a991c0b15b9a5442",
+        "type": "OPCUA-IIoT-Node",
+        "z": "f8d8432b55ae0c20",
+        "injectType": "read",
+        "nodeId": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PowerMeter.ActivePowerL3.value",
+        "datatype": "Double",
+        "value": "",
+        "name": "Active Power 3",
+        "topic": "",
+        "showErrors": false,
+        "x": 380,
+        "y": 400,
+        "wires": [
+            [
+                "ed4d34a601e45ed5"
+            ]
+        ]
+    },
+    {
+        "id": "c29ce44ae156adbb",
+        "type": "OPCUA-IIoT-Node",
+        "z": "f8d8432b55ae0c20",
+        "injectType": "read",
+        "nodeId": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PowerMeter.ActivePowerL2.value",
+        "datatype": "Double",
+        "value": "",
+        "name": "Active Power 2",
+        "topic": "",
+        "showErrors": false,
+        "x": 380,
+        "y": 360,
+        "wires": [
+            [
+                "ed4d34a601e45ed5"
+            ]
+        ]
+    },
+    {
+        "id": "93761beb7ce940a2",
+        "type": "link out",
+        "z": "f8d8432b55ae0c20",
+        "name": "OPC UA",
+        "mode": "link",
+        "links": [
+            "cfe2e99661fe431a",
+            "4e25615a39b21b65",
+            "a619286b7c38d7bc",
+            "643d59d4946e0b54"
+        ],
+        "x": 735,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "0c2f12a0c08fcfa6",
+        "type": "OPCUA-IIoT-Node",
+        "z": "f8d8432b55ae0c20",
+        "injectType": "read",
+        "nodeId": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PowerMeter.ActiveEnergy.value",
+        "datatype": "Double",
+        "value": "",
+        "name": "Active Energy",
+        "topic": "",
+        "showErrors": false,
+        "x": 380,
+        "y": 460,
+        "wires": [
+            [
+                "ed4d34a601e45ed5"
+            ]
+        ]
+    },
+    {
+        "id": "abeacd51c72a9ee3",
+        "type": "ui-button",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "group": "9bbb1da2d7bfc642",
+        "name": "",
+        "label": "RESET",
+        "order": 16,
+        "width": 12,
+        "height": 0,
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "iconPosition": "left",
+        "payload": "RESET",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "buttonColor": "#4A4A4A",
+        "textColor": "#FFFFFF",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 400,
+        "y": 440,
+        "wires": [
+            [
+                "9d0abc1a174a352f"
+            ]
+        ]
+    },
+    {
+        "id": "e8b30adf4572c46d",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "to Reset",
+        "func": "let reset = flow.get(\"RESET\") || false;\n\nif (reset === true || msg.payload){\n    msg.payload = [];\n    flow.set(\"average\", 0);\n    flow.set(\"RESET\", false);\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 480,
+        "wires": [
+            [
+                "a4581b3a6682ad3a"
+            ]
+        ]
+    },
+    {
+        "id": "6994eb7da070634b",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "name": "Filter Data",
+        "func": "// Retrieve selected lines from flow context\nlet selectedLines = flow.get(\"selectedLine\") || [];\n\n// Ensure selectedLines is an array\nif (!Array.isArray(selectedLines)) {\n    selectedLines = [];\n}\n\n// Allow message only if its topic exists in selectedLines\nif (selectedLines.includes(msg.topic)) {\n    msg.payload = parseFloat(msg.payload.toFixed(4));\n    return msg;  // Allow message to go through\n} else {\n    return null; // Drop message\n}\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 630,
+        "y": 300,
+        "wires": [
+            [
+                "1b1ee82a5a583818"
+            ]
+        ]
+    },
+    {
+        "id": "1b1ee82a5a583818",
+        "type": "ui-chart",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "group": "9bbb1da2d7bfc642",
+        "name": "Active Energy",
+        "label": "Active Energy",
+        "order": 1,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Watt-hour",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "",
+        "ymax": "",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": "3",
+        "showLegend": true,
+        "removeOlder": "30",
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "100",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 6,
+        "height": 8,
+        "className": "",
+        "interpolation": "linear",
+        "x": 880,
+        "y": 300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "224cd9f6583550ac",
+        "type": "inject",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 220,
+        "wires": [
+            [
+                "a57ec55b177e631c"
+            ]
+        ]
+    },
+    {
+        "id": "a4581b3a6682ad3a",
+        "type": "link out",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "to Reset",
+        "mode": "link",
+        "links": [
+            "c0cb870991979b1c",
+            "3fa56dd7079a6158"
+        ],
+        "x": 855,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "c0cb870991979b1c",
+        "type": "link in",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "name": "Reset to Graph",
+        "links": [
+            "a4581b3a6682ad3a"
+        ],
+        "x": 735,
+        "y": 260,
+        "wires": [
+            [
+                "1b1ee82a5a583818",
+                "54a01ed3e8be8d73"
+            ]
+        ]
+    },
+    {
+        "id": "9d0abc1a174a352f",
+        "type": "trigger",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "",
+        "op1": "true",
+        "op2": "false",
+        "op1type": "bool",
+        "op2type": "bool",
+        "duration": "250",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "ms",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 600,
+        "y": 440,
+        "wires": [
+            [
+                "e8b30adf4572c46d"
+            ]
+        ]
+    },
+    {
+        "id": "df1d74c271c25d72",
+        "type": "change",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "ActiveEnergy",
+                "pt": "flow",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Total Active Energy",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 440,
+        "y": 300,
+        "wires": [
+            [
+                "6994eb7da070634b"
+            ]
+        ]
+    },
+    {
+        "id": "67376ad4626ed378",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "Select Line function",
+        "func": "flow.set(\"selectedLine\", msg.payload);\nflow.set(\"RESET\", true);\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 480,
+        "wires": [
+            [
+                "e8b30adf4572c46d"
+            ]
+        ]
+    },
+    {
+        "id": "d4fab133fc4f6a91",
+        "type": "ui-number-input",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "group": "9bbb1da2d7bfc642",
+        "name": "",
+        "label": "Day Rate: 0.50 p/KWh",
+        "order": 6,
+        "width": 3,
+        "height": 0,
+        "topic": "DayRate",
+        "topicType": "str",
+        "min": 0,
+        "max": 10,
+        "step": "0.01",
+        "tooltip": "",
+        "passthru": true,
+        "sendOnBlur": true,
+        "sendOnEnter": true,
+        "className": "",
+        "clearable": false,
+        "icon": "",
+        "iconPosition": "left",
+        "iconInnerPosition": "inside",
+        "spinner": "stacked",
+        "x": 200,
+        "y": 570,
+        "wires": [
+            [
+                "1562643625e6b7ab"
+            ]
+        ]
+    },
+    {
+        "id": "a71da6eaa8f4eace",
+        "type": "ui-number-input",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "group": "9bbb1da2d7bfc642",
+        "name": "",
+        "label": "Night Rate: 0.25 p/KWh",
+        "order": 8,
+        "width": 3,
+        "height": 0,
+        "topic": "NightRate",
+        "topicType": "str",
+        "min": 0,
+        "max": 10,
+        "step": "0.01",
+        "tooltip": "",
+        "passthru": true,
+        "sendOnBlur": true,
+        "sendOnEnter": true,
+        "className": "",
+        "clearable": false,
+        "icon": "",
+        "iconPosition": "left",
+        "iconInnerPosition": "inside",
+        "spinner": "stacked",
+        "x": 210,
+        "y": 620,
+        "wires": [
+            [
+                "1562643625e6b7ab"
+            ]
+        ]
+    },
+    {
+        "id": "1562643625e6b7ab",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "Store Temporarily",
+        "func": "flow.set(msg.topic, msg.payload);\nreturn null;",
+        "outputs": 0,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "f55b27bf4c968a65",
+        "type": "ui-button",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "group": "9bbb1da2d7bfc642",
+        "name": "",
+        "label": "Submit",
+        "order": 11,
+        "width": 6,
+        "height": 0,
+        "emulateClick": false,
+        "className": "",
+        "icon": "",
+        "iconPosition": "left",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "buttonColor": "#00AEEF",
+        "textColor": "#FFFFFF",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 440,
+        "y": 640,
+        "wires": [
+            [
+                "c4bdc9231559e2e7"
+            ]
+        ]
+    },
+    {
+        "id": "c4bdc9231559e2e7",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "Save to Flow",
+        "func": "// Retrieve day and night rates (default: 50p and 25p per kWh)\nlet dayRate = flow.get(\"DayRate\") || 0.50;\nlet nightRate = flow.get(\"NightRate\") || 0.25;\n\n// Retrieve day and night time boundaries\nlet dayTime = flow.get(\"DayTime\") || 7;  // Default: 7 AM start for day rate\nlet nightTime = flow.get(\"NightTime\") || 23; // Default: 11 PM start for night rate\n\nflow.set(\"SavedDayRate\", dayRate);\nflow.set(\"SavedNightRate\", nightRate);\nflow.set(\"SavedDayTime\", dayTime);\nflow.set(\"SavedNightTime\", nightTime);\n\nmsg.payload = {\n    SavedDayRate: dayRate, SavedNightRate: nightRate,\n    SavedDayTime: dayTime, SavedNightTime: nightTime,\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fb7c09751e27ac40",
+        "type": "ui-number-input",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "group": "9bbb1da2d7bfc642",
+        "name": "",
+        "label": "Day time: 6:00",
+        "order": 7,
+        "width": 3,
+        "height": 0,
+        "topic": "DayTime",
+        "topicType": "str",
+        "min": 0,
+        "max": "24",
+        "step": "1",
+        "tooltip": "",
+        "passthru": true,
+        "sendOnBlur": true,
+        "sendOnEnter": true,
+        "className": "",
+        "clearable": false,
+        "icon": "",
+        "iconPosition": "left",
+        "iconInnerPosition": "inside",
+        "spinner": "stacked",
+        "x": 180,
+        "y": 700,
+        "wires": [
+            [
+                "2858ee0ee725f365"
+            ]
+        ]
+    },
+    {
+        "id": "70ffe10b4859702b",
+        "type": "ui-number-input",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "group": "9bbb1da2d7bfc642",
+        "name": "",
+        "label": "Night time: 20:00",
+        "order": 9,
+        "width": 3,
+        "height": 0,
+        "topic": "NightTime",
+        "topicType": "str",
+        "min": 0,
+        "max": "24",
+        "step": "1",
+        "tooltip": "",
+        "passthru": true,
+        "sendOnBlur": true,
+        "sendOnEnter": true,
+        "className": "",
+        "clearable": false,
+        "icon": "",
+        "iconPosition": "left",
+        "iconInnerPosition": "inside",
+        "spinner": "stacked",
+        "x": 190,
+        "y": 740,
+        "wires": [
+            [
+                "2858ee0ee725f365"
+            ]
+        ]
+    },
+    {
+        "id": "2858ee0ee725f365",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "Store Temporarily",
+        "func": "flow.set(msg.topic, msg.payload);\nreturn null;",
+        "outputs": 0,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "59c7013dde56d97a",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "93c72102cdb3af70",
+        "name": "Create ActiveEnergyLog tbl",
+        "func": "msg.topic = `\n    CREATE TABLE IF NOT EXISTS ActiveEnergyLog (\n        id INTEGER PRIMARY KEY AUTOINCREMENT,\n        timestamp INTEGER DEFAULT (strftime('%s', 'now')),\n        ActiveEnergy REAL\n);\n`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 520,
+        "y": 1060,
+        "wires": [
+            [
+                "be8ff26dba3b1951"
+            ]
+        ]
+    },
+    {
+        "id": "be8ff26dba3b1951",
+        "type": "sqlite",
+        "z": "dd7a3c5f0b579f48",
+        "g": "93c72102cdb3af70",
+        "mydb": "6943bf753b6f05d3",
+        "sqlquery": "msg.topic",
+        "sql": "show tables;",
+        "name": "EMB",
+        "x": 790,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ce0f75c8b7dfa12f",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "93c72102cdb3af70",
+        "name": "Overwrite data after a month",
+        "func": "let timeLimit = 2592000; // 30 days in seconds\n\nmsg.topic = `\n    DELETE FROM ActiveEnergyLog \n    WHERE timestamp < (strftime('%s','now') - ${timeLimit});\n`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 520,
+        "y": 1140,
+        "wires": [
+            [
+                "be8ff26dba3b1951"
+            ]
+        ]
+    },
+    {
+        "id": "5ec1fb11dc2c7cc6",
+        "type": "inject",
+        "z": "dd7a3c5f0b579f48",
+        "g": "93c72102cdb3af70",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 1100,
+        "wires": [
+            [
+                "ce0f75c8b7dfa12f",
+                "9dac8a6844bbdff5",
+                "59c7013dde56d97a"
+            ]
+        ]
+    },
+    {
+        "id": "9dac8a6844bbdff5",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "93c72102cdb3af70",
+        "name": "Insert/Overwrite data",
+        "func": "let ActiveEnergy = flow.get(\"ActiveEnergy\") || 0;\nmsg.topic = `\n    INSERT INTO ActiveEnergyLog (timestamp, ActiveEnergy) \n    VALUES (datetime('now'), ${ActiveEnergy});\n`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 500,
+        "y": 1100,
+        "wires": [
+            [
+                "be8ff26dba3b1951"
+            ]
+        ]
+    },
+    {
+        "id": "805a9bc4843998c4",
+        "type": "comment",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "name": "Graphs",
+        "info": "",
+        "x": 110,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "3352c6f19e085fdd",
+        "type": "comment",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "Buttons & Rates",
+        "info": "",
+        "x": 160,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "84ac3e2894dacc1c",
+        "type": "comment",
+        "z": "dd7a3c5f0b579f48",
+        "g": "93c72102cdb3af70",
+        "name": "Database",
+        "info": "",
+        "x": 120,
+        "y": 1000,
+        "wires": []
+    },
+    {
+        "id": "493f56f05fbbd7cb",
+        "type": "link in",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "Define Lines",
+        "links": [
+            "d34293b966266e31"
+        ],
+        "x": 215,
+        "y": 480,
+        "wires": [
+            [
+                "02fa43e1019879a1"
+            ]
+        ]
+    },
+    {
+        "id": "02fa43e1019879a1",
+        "type": "ui-dropdown",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "group": "9bbb1da2d7bfc642",
+        "name": "Select Line",
+        "label": "Choose Line",
+        "order": 3,
+        "width": 6,
+        "height": 1,
+        "passthru": true,
+        "multiple": true,
+        "chips": false,
+        "clearable": false,
+        "options": [
+            {
+                "label": "Total Active Energy",
+                "value": "Total Active Energy",
+                "type": "str"
+            }
+        ],
+        "topic": "",
+        "topicType": "str",
+        "className": "",
+        "typeIsComboBox": true,
+        "msgTrigger": "onChange",
+        "x": 370,
+        "y": 480,
+        "wires": [
+            [
+                "67376ad4626ed378"
+            ]
+        ]
+    },
+    {
+        "id": "643d59d4946e0b54",
+        "type": "link in",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "name": "From OPC UA",
+        "links": [
+            "93761beb7ce940a2"
+        ],
+        "x": 125,
+        "y": 300,
+        "wires": [
+            [
+                "d68de436c8c3888b"
+            ]
+        ]
+    },
+    {
+        "id": "d68de436c8c3888b",
+        "type": "switch",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "name": "",
+        "property": "payload.value[0].nodeId",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PowerMeter.ActiveEnergy.value",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 270,
+        "y": 300,
+        "wires": [
+            [
+                "df1d74c271c25d72"
+            ]
+        ]
+    },
+    {
+        "id": "a1b2c3d4e5f6",
+        "type": "sqlite",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "mydb": "6943bf753b6f05d3",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "Fetch Active Energy",
+        "x": 540,
+        "y": 140,
+        "wires": [
+            [
+                "b7c8d9e0f1a2"
+            ]
+        ]
+    },
+    {
+        "id": "b7c8d9e0f1a2",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "name": "Calculate Energy Bills",
+        "func": "// Retrieve stored day/night rates\nlet day_rate = flow.get(\"SavedDayRate\") || 0.50;\nlet night_rate = flow.get(\"SavedNightRate\") || 0.25;\n\n// Extract energy readings\nlet data = msg.payload[0] || {};\nlet latest_energy = data.latest_energy ?? 0;\nlet last_hourly_energy = data.last_hourly_energy ?? latest_energy;\nlet last_daily_energy = data.last_daily_energy ?? latest_energy;\nlet last_weekly_energy = data.last_weekly_energy ?? latest_energy;\nlet last_monthly_energy = data.last_monthly_energy ?? latest_energy;\n\n// Fix: Calculate actual energy used in Wh\nlet energy_hourly = Math.max(latest_energy - last_hourly_energy, 0);\nlet energy_daily = Math.max(latest_energy - last_daily_energy, 0);\nlet energy_weekly = Math.max(latest_energy - last_weekly_energy, 0);\nlet energy_monthly = Math.max(latest_energy - last_monthly_energy, 0);\n\n// Convert from Wh to kWh (since rates are per kWh)\nenergy_hourly /= 1000;\nenergy_daily /= 1000;\nenergy_weekly /= 1000;\nenergy_monthly /= 1000;\n\n// Get current hour\nlet currentHour = new Date().getHours();\n\n// Retrieve day and night time boundaries\nlet dayTime = flow.get(\"SavedDayTime\") || 7;\nlet nightTime = flow.get(\"SavedNightTime\") || 23;\n\n// Determine applicable rate\nlet rate = (currentHour >= dayTime && currentHour < nightTime) ? day_rate : night_rate;\n\n// Fix: Ensure cost applies only to energy used\nlet cost_hourly = parseFloat((energy_hourly * rate).toFixed(2));\nlet cost_daily = parseFloat((energy_daily * rate).toFixed(2));\nlet cost_weekly = parseFloat((energy_weekly * rate).toFixed(2));\nlet cost_monthly = parseFloat((energy_monthly * rate).toFixed(2));\n\n// Store results\nflow.set(\"hourly_cost\", cost_hourly);\nflow.set(\"daily_cost\", cost_daily);\nflow.set(\"weekly_cost\", cost_weekly);\nflow.set(\"monthly_cost\", cost_monthly);\n\n// Return messages\nreturn [\n    { payload: cost_hourly, topic: \"Hourly Bill\" },\n    { payload: cost_daily, topic: \"Daily Bill\" },\n    { payload: cost_weekly, topic: \"Weekly Bill\" },\n    { payload: cost_monthly, topic: \"Monthly Bill\" }\n];",
+        "outputs": 4,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 140,
+        "wires": [
+            [
+                "fa968ea113590865"
+            ],
+            [
+                "c1d2e3f4g5h6"
+            ],
+            [
+                "d3e4f5g6h7i8"
+            ],
+            [
+                "e5f6g7h8i9j0"
+            ]
+        ]
+    },
+    {
+        "id": "c1d2e3f4g5h6",
+        "type": "ui-text",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "group": "9bbb1da2d7bfc642",
+        "order": 13,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Daily Bill: £",
+        "format": "{{msg.payload.daily_cost}}",
+        "layout": "row-center",
+        "style": true,
+        "font": "",
+        "fontSize": "",
+        "color": "#c62828",
+        "wrapText": false,
+        "className": "",
+        "x": 1010,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "d3e4f5g6h7i8",
+        "type": "ui-text",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "group": "9bbb1da2d7bfc642",
+        "order": 14,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Weekly Bill: £",
+        "format": "{{msg.payload.weekly_cost}}",
+        "layout": "row-center",
+        "style": true,
+        "font": "",
+        "fontSize": "",
+        "color": "#c62828",
+        "wrapText": false,
+        "className": "",
+        "x": 1010,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "e5f6g7h8i9j0",
+        "type": "ui-text",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "group": "9bbb1da2d7bfc642",
+        "order": 15,
+        "width": 6,
+        "height": 1,
+        "name": "",
+        "label": "Monthly Bill: £",
+        "format": "{{msg.payload.monthly_cost}}",
+        "layout": "col-center",
+        "style": true,
+        "font": "",
+        "fontSize": "20",
+        "color": "#c62828",
+        "wrapText": false,
+        "className": "",
+        "x": 1020,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "fb4e9481aac1b10d",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "name": "Extract bills",
+        "func": "msg.topic = `\nWITH latest_data AS (\n    SELECT timestamp, ActiveEnergy \n    FROM ActiveEnergyLog \n    ORDER BY timestamp DESC \n    LIMIT 1\n),\nhourly_data AS (\n    SELECT ActiveEnergy \n    FROM ActiveEnergyLog \n    WHERE timestamp <= (SELECT timestamp FROM latest_data) - 300\n    ORDER BY timestamp DESC \n    LIMIT 1\n),\ndaily_data AS (\n    SELECT ActiveEnergy \n    FROM ActiveEnergyLog \n    WHERE timestamp <= (SELECT timestamp FROM latest_data) - 900\n    ORDER BY timestamp DESC \n    LIMIT 1\n),\nweekly_data AS (\n    SELECT ActiveEnergy \n    FROM ActiveEnergyLog \n    WHERE timestamp <= (SELECT timestamp FROM latest_data) - 1800\n    ORDER BY timestamp DESC \n    LIMIT 1\n),\nmonthly_data AS (\n    SELECT ActiveEnergy \n    FROM ActiveEnergyLog \n    WHERE timestamp <= (SELECT timestamp FROM latest_data) - 3600\n    ORDER BY timestamp DESC \n    LIMIT 1\n),\nbaseline AS (\n    SELECT ActiveEnergy \n    FROM ActiveEnergyLog \n    ORDER BY timestamp ASC \n    LIMIT 1\n)\nSELECT \n    (SELECT timestamp FROM latest_data) AS latest_ts,\n    (SELECT ActiveEnergy FROM latest_data) AS latest_energy,\n    COALESCE((SELECT ActiveEnergy FROM hourly_data), (SELECT ActiveEnergy FROM baseline)) AS last_hourly_energy,\n    COALESCE((SELECT ActiveEnergy FROM daily_data), (SELECT ActiveEnergy FROM baseline)) AS last_daily_energy,\n    COALESCE((SELECT ActiveEnergy FROM weekly_data), (SELECT ActiveEnergy FROM baseline)) AS last_weekly_energy,\n    COALESCE((SELECT ActiveEnergy FROM monthly_data), (SELECT ActiveEnergy FROM baseline)) AS last_monthly_energy;\n`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 350,
+        "y": 140,
+        "wires": [
+            [
+                "a1b2c3d4e5f6"
+            ]
+        ]
+    },
+    {
+        "id": "55e941e1b5eeca21",
+        "type": "inject",
+        "z": "dd7a3c5f0b579f48",
+        "g": "93c72102cdb3af70",
+        "name": "Drop",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "DROP TABLE IF EXISTS ActiveEnergyLog;",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 1180,
+        "wires": [
+            [
+                "be8ff26dba3b1951"
+            ]
+        ]
+    },
+    {
+        "id": "bill_dropdown",
+        "type": "ui-dropdown",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "group": "9bbb1da2d7bfc642",
+        "name": "Select Bill Type",
+        "label": "Bill Type",
+        "order": 4,
+        "width": 6,
+        "height": 1,
+        "passthru": true,
+        "multiple": true,
+        "chips": false,
+        "clearable": false,
+        "options": [
+            {
+                "label": "Total Bill",
+                "value": "Total",
+                "type": "str"
+            },
+            {
+                "label": "Hourly Bill",
+                "value": "Hourly",
+                "type": "str"
+            },
+            {
+                "label": "Daily Bill",
+                "value": "Daily",
+                "type": "str"
+            },
+            {
+                "label": "Weekly Bill",
+                "value": "Weekly",
+                "type": "str"
+            },
+            {
+                "label": "Monthly Bill",
+                "value": "Monthly",
+                "type": "str"
+            }
+        ],
+        "topic": "",
+        "topicType": "str",
+        "className": "",
+        "typeIsComboBox": true,
+        "msgTrigger": "onChange",
+        "x": 380,
+        "y": 520,
+        "wires": [
+            [
+                "4546db7ae90779ed"
+            ]
+        ]
+    },
+    {
+        "id": "4546db7ae90779ed",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "Select Bills function",
+        "func": "flow.set(\"selectedBills\", msg.payload);\nflow.set(\"RESET\", true);\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 520,
+        "wires": [
+            [
+                "e8b30adf4572c46d"
+            ]
+        ]
+    },
+    {
+        "id": "a57ec55b177e631c",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "name": "Calculate Bills & Read selected types",
+        "func": "// Retrieve selected bills from flow context\nlet selectedBills = flow.get(\"selectedBills\") || [];\n\n// Ensure selectedBills is an array\nif (!Array.isArray(selectedBills)) {\n    selectedBills = [];\n}\n\n// If no bill type is selected, clear the chart\nif (selectedBills.length === 0) {\n    node.send([{ payload: [], topic: \"RESET\" }]);\n    return;\n}\n\n// Define the correct topic capitalization mapping\nlet topicMap = {\n    \"Total\": \"Total Bill\",\n    \"Hourly\": \"Hourly Bill\",\n    \"Daily\": \"Daily Bill\",\n    \"Weekly\": \"Weekly Bill\",\n    \"Monthly\": \"Monthly Bill\"\n};\n\n// Retrieve latest Active Energy value\nlet activeEnergy = flow.get(\"ActiveEnergy\") || 0;\n\n// Retrieve day and night rates (default values if not set)\nlet dayRate = flow.get(\"SavedDayRate\") || 0.50;  // Default 50p per kWh\nlet nightRate = flow.get(\"SavedNightRate\") || 0.25; // Default 25p per kWh\nlet dayTime = flow.get(\"SavedDayTime\") || 7;  // Day rate starts at 7 AM\nlet nightTime = flow.get(\"SavedNightTime\") || 23; // Night rate starts at 11 PM\n\n// Get the current hour\nlet currentHour = new Date().getHours();\n\n// Determine applicable rate based on time of day\nlet rate = (currentHour >= dayTime && currentHour < nightTime) ? dayRate : nightRate;\n\n// Calculate Total Bill dynamically (convert Wh to kWh first)\nlet totalBill = parseFloat(((activeEnergy / 1000) * rate).toFixed(2));\n\n// Retrieve stored bill values and force exactly 2 decimal places\nlet billValues = {\n    \"Total Bill\": totalBill, // Dynamically calculated\n    \"Hourly Bill\": parseFloat((flow.get(\"hourly_cost\") || 0).toFixed(2)),\n    \"Daily Bill\": parseFloat((flow.get(\"daily_cost\") || 0).toFixed(2)),\n    \"Weekly Bill\": parseFloat((flow.get(\"weekly_cost\") || 0).toFixed(2)),\n    \"Monthly Bill\": parseFloat((flow.get(\"monthly_cost\") || 0).toFixed(2))\n};\n\n// Create an array of messages to send all at once\nlet messages = selectedBills\n    .map(type => type.trim()) // Ensure spacing is clean\n    .filter(type => topicMap.hasOwnProperty(type)) // Ensure valid types\n    .map(type => ({\n        topic: topicMap[type],  // Apply correct topic name\n        payload: Number(billValues[topicMap[type]].toFixed(2)) // Ensure strict 2 decimal places\n    }));\n\n// Send all messages as separate outputs\nmessages.forEach(msg => node.send([msg]));",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 220,
+        "wires": [
+            [
+                "54a01ed3e8be8d73"
+            ]
+        ]
+    },
+    {
+        "id": "54a01ed3e8be8d73",
+        "type": "ui-chart",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "group": "9bbb1da2d7bfc642",
+        "name": "Bills",
+        "label": "Bills",
+        "order": 2,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "GBP - £",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "",
+        "ymax": "",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": "3",
+        "showLegend": true,
+        "removeOlder": "30",
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "100",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 6,
+        "height": 8,
+        "className": "",
+        "interpolation": "linear",
+        "x": 850,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3fa56dd7079a6158",
+        "type": "link in",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "name": "Reset to Bills text",
+        "links": [
+            "a4581b3a6682ad3a"
+        ],
+        "x": 845,
+        "y": 80,
+        "wires": [
+            [
+                "e5f6g7h8i9j0",
+                "d3e4f5g6h7i8",
+                "c1d2e3f4g5h6",
+                "fa968ea113590865"
+            ]
+        ]
+    },
+    {
+        "id": "fa968ea113590865",
+        "type": "ui-text",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "group": "9bbb1da2d7bfc642",
+        "order": 12,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Hourly Bill: £",
+        "format": "{{msg.payload.daily_cost}}",
+        "layout": "row-center",
+        "style": true,
+        "font": "",
+        "fontSize": "",
+        "color": "#c62828",
+        "wrapText": false,
+        "className": "",
+        "x": 1010,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "ba9a62f42f58e925",
+        "type": "inject",
+        "z": "dd7a3c5f0b579f48",
+        "g": "09743a46fd7016b8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "2",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 140,
+        "wires": [
+            [
+                "fb4e9481aac1b10d"
+            ]
+        ]
+    },
+    {
+        "id": "calculate_trees",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "Calculate Trees",
+        "func": "// Get current date\nlet now = new Date();\nlet day = now.getDate();\nlet month = now.getMonth() + 1; // JavaScript months are 0-based\n\n// Retrieve stored values\nlet lastResetMonth = flow.get(\"last_reset_month\") || 0;\nlet lastEnergy = flow.get(\"last_energy\"); // Stored energy from the last month\nlet currentEnergy = flow.get(\"ActiveEnergy\"); // Latest energy from the system (in Wh)\n\nlet totalTrees = 30;\nlet energyPerTree_kWh = 8; // kWh per tree\n\n// **Ensure ActiveEnergy is available before proceeding**\nif (currentEnergy === undefined || currentEnergy === null) {\n    return { payload: \"Waiting for ActiveEnergy update...\", topic: \"Tree Count\" };\n}\n\n// **Fix 1: Ensure `last_energy` is set correctly and NOT OVERRIDDEN every time**\nif (lastEnergy === undefined || lastEnergy === null) {\n    lastEnergy = currentEnergy; // Use current energy as a reference ONLY if it's missing\n    flow.set(\"last_energy\", lastEnergy);\n    node.warn(`INIT: Setting last_energy to ${lastEnergy} Wh`);\n    return { payload: totalTrees, topic: \"Tree Count\" };\n}\n\n// **Fix 2: Properly Reset at the Beginning of the Month**\nif (day === 1 && lastResetMonth !== month) {\n    flow.set(\"last_energy\", currentEnergy); // Reset last energy to current reading\n    flow.set(\"last_reset_month\", month); // Store the new reset month\n    flow.set(\"tree_count\", totalTrees); // Reset tree count\n\n    return { payload: totalTrees, topic: \"Tree Count\" };\n}\n\n// **Fix 3: Convert Wh to kWh for correct energy calculations**\nlet energyConsumed_kWh = (currentEnergy - lastEnergy) / 1000; // Convert Wh to kWh\nif (energyConsumed_kWh < 0) energyConsumed_kWh = 0; // Avoid negative values\n\nlet treesToRemove = Math.ceil(energyConsumed_kWh / energyPerTree_kWh); // Round up for better accuracy\nlet treesToDisplay = Math.max(totalTrees - treesToRemove, 0);\n\n// Store updated tree count but do NOT reset last_energy until next month\nflow.set(\"tree_count\", treesToDisplay);\n\nreturn { payload: treesToDisplay, topic: \"Tree Count\" };",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 840,
+        "wires": [
+            [
+                "7d7e1d7001d8b71e"
+            ]
+        ]
+    },
+    {
+        "id": "energy_input",
+        "type": "inject",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "timestamps",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "10",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "30",
+        "payloadType": "num",
+        "x": 150,
+        "y": 840,
+        "wires": [
+            [
+                "calculate_trees",
+                "849e597fe877ef27"
+            ]
+        ]
+    },
+    {
+        "id": "7d7e1d7001d8b71e",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "Tree numbers setup",
+        "func": "if (typeof msg.payload === \"number\" && msg.payload > 0) {\n    msg.payload = \"🌳\".repeat(msg.payload); // Display trees\n} else {\n    msg.payload = \"No trees available\";\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 840,
+        "wires": [
+            [
+                "6b39eec9cce0a484"
+            ]
+        ]
+    },
+    {
+        "id": "6b39eec9cce0a484",
+        "type": "ui-text",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "group": "9bbb1da2d7bfc642",
+        "order": 5,
+        "width": 6,
+        "height": 2,
+        "name": "",
+        "label": "Footprint",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "style": true,
+        "font": "",
+        "fontSize": "21",
+        "color": "#1b5e20",
+        "wrapText": false,
+        "className": "",
+        "x": 760,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "849e597fe877ef27",
+        "type": "function",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "name": "Day and month",
+        "func": "let now = new Date();\n\n// Array of day names (0 = Sunday, 1 = Monday, ..., 6 = Saturday)\nlet daysOfWeek = [\"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\"];\n\n// Array of month names (0 = January, 1 = February, ..., 11 = December)\nlet monthsOfYear = [\n    \"January\", \"February\", \"March\", \"April\", \"May\", \"June\",\n    \"July\", \"August\", \"September\", \"October\", \"November\", \"December\"\n];\n\n// Get current day, month, and date\nlet dayOfWeek = daysOfWeek[now.getDay()];\nlet month = monthsOfYear[now.getMonth()];\nlet dayOfMonth = now.getDate();\n\n// Format output with HTML bold tags\nmsg.payload = `<b>${dayOfWeek}</b>, on the date <b>${dayOfMonth} ${month}</b>`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 900,
+        "wires": [
+            [
+                "8226a5a70cebfe9f"
+            ]
+        ]
+    },
+    {
+        "id": "8226a5a70cebfe9f",
+        "type": "ui-text",
+        "z": "dd7a3c5f0b579f48",
+        "g": "1d4f8e0f285f4e8a",
+        "group": "9bbb1da2d7bfc642",
+        "order": 10,
+        "width": 6,
+        "height": 0,
+        "name": "Day of the Week",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "style": true,
+        "font": "",
+        "fontSize": "21",
+        "color": "#717171",
+        "wrapText": false,
+        "className": "",
+        "x": 600,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "a6112772eb1e4480",
+        "type": "ui-button",
+        "z": "1b108ac311e2e795",
+        "g": "5beb30bb6ff1b20e",
+        "group": "b3b365bbf6fcd6df",
+        "name": "",
+        "label": "RESET",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "iconPosition": "left",
+        "payload": "RESET",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "buttonColor": "#4A4A4A",
+        "textColor": "#FFFFFF",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 420,
+        "y": 400,
+        "wires": [
+            [
+                "5548f1df5b45f331"
+            ]
+        ]
+    },
+    {
+        "id": "349d410f9435491a",
+        "type": "ui-dropdown",
+        "z": "1b108ac311e2e795",
+        "g": "5beb30bb6ff1b20e",
+        "group": "b3b365bbf6fcd6df",
+        "name": "Select Line",
+        "label": "Choose Line",
+        "order": 3,
+        "width": 6,
+        "height": 1,
+        "passthru": true,
+        "multiple": true,
+        "chips": false,
+        "clearable": false,
+        "options": [],
+        "topic": "",
+        "topicType": "str",
+        "className": "",
+        "typeIsComboBox": true,
+        "msgTrigger": "onChange",
+        "x": 370,
+        "y": 440,
+        "wires": [
+            [
+                "1c069188ea785027"
+            ]
+        ]
+    },
+    {
+        "id": "afb0f36848ade3d6",
+        "type": "sqlite",
+        "z": "1b108ac311e2e795",
+        "g": "c37d86fb5ad5e664",
+        "mydb": "6943bf753b6f05d3",
+        "sqlquery": "msg.topic",
+        "sql": "show tables;",
+        "name": "EMB",
+        "x": 730,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a45689b1485cfab0",
+        "type": "function",
+        "z": "1b108ac311e2e795",
+        "g": "c37d86fb5ad5e664",
+        "name": "Create Active Power Log tbl",
+        "func": "msg.topic = `\n    CREATE TABLE IF NOT EXISTS ActivePowerLog (\n        id INTEGER PRIMARY KEY AUTOINCREMENT,\n        timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,\n        ActivePowerL1 REAL,\n        ActivePowerL2 REAL,\n        ActivePowerL3 REAL\n    );\n`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 580,
+        "wires": [
+            [
+                "afb0f36848ade3d6"
+            ]
+        ]
+    },
+    {
+        "id": "4b81b97fbefaedac",
+        "type": "function",
+        "z": "1b108ac311e2e795",
+        "g": "c37d86fb5ad5e664",
+        "name": "Insert/Overwrite data",
+        "func": "let ActivePowerL1 = flow.get(\"ActivePowerL1\") || 0;\nlet ActivePowerL2 = flow.get(\"ActivePowerL2\") || 0;\nlet ActivePowerL3 = flow.get(\"ActivePowerL3\") || 0;\n\nmsg.topic = `\n    INSERT INTO ActivePowerLog (timestamp, ActivePowerL1, ActivePowerL2, ActivePowerL3) \n    VALUES (datetime('now'), ${ActivePowerL1}, ${ActivePowerL2}, ${ActivePowerL3});\n`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 620,
+        "wires": [
+            [
+                "afb0f36848ade3d6"
+            ]
+        ]
+    },
+    {
+        "id": "b3aa1bef386b4d91",
+        "type": "function",
+        "z": "1b108ac311e2e795",
+        "g": "c37d86fb5ad5e664",
+        "name": "Overwrite data after a month",
+        "func": "let timeLimit = 2592000; // 30 days in seconds\n\nmsg.topic = `\n    DELETE FROM ActivePowerLog \n    WHERE timestamp < (strftime('%s','now') - ${timeLimit});\n`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 660,
+        "wires": [
+            [
+                "afb0f36848ade3d6"
+            ]
+        ]
+    },
+    {
+        "id": "75b8d9c9b5adb01d",
+        "type": "inject",
+        "z": "1b108ac311e2e795",
+        "g": "c37d86fb5ad5e664",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 620,
+        "wires": [
+            [
+                "b3aa1bef386b4d91",
+                "4b81b97fbefaedac",
+                "a45689b1485cfab0"
+            ]
+        ]
+    },
+    {
+        "id": "9f6e0235deecc7a8",
+        "type": "comment",
+        "z": "1b108ac311e2e795",
+        "g": "c37d86fb5ad5e664",
+        "name": "Database",
+        "info": "",
+        "x": 120,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "f6f95d0bcc6bf0a4",
+        "type": "function",
+        "z": "1b108ac311e2e795",
+        "g": "5beb30bb6ff1b20e",
+        "name": "to Reset",
+        "func": "let reset = flow.get(\"RESET\") || false;\n\nif (reset === true || msg.payload){\n    msg.payload = [];\n    flow.set(\"average\", null);\n    flow.set(\"RESET\", false);\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 420,
+        "wires": [
+            [
+                "595e82efad6b6aea"
+            ]
+        ]
+    },
+    {
+        "id": "595e82efad6b6aea",
+        "type": "link out",
+        "z": "1b108ac311e2e795",
+        "g": "5beb30bb6ff1b20e",
+        "name": "to Reset",
+        "mode": "link",
+        "links": [
+            "8e9a06731f91d677"
+        ],
+        "x": 855,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "5548f1df5b45f331",
+        "type": "trigger",
+        "z": "1b108ac311e2e795",
+        "g": "5beb30bb6ff1b20e",
+        "name": "",
+        "op1": "true",
+        "op2": "false",
+        "op1type": "bool",
+        "op2type": "bool",
+        "duration": "250",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "ms",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 600,
+        "y": 400,
+        "wires": [
+            [
+                "f6f95d0bcc6bf0a4"
+            ]
+        ]
+    },
+    {
+        "id": "53098d3cd6446ba2",
+        "type": "comment",
+        "z": "1b108ac311e2e795",
+        "g": "5beb30bb6ff1b20e",
+        "name": "Buttons & Lines",
+        "info": "",
+        "x": 140,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "1c069188ea785027",
+        "type": "function",
+        "z": "1b108ac311e2e795",
+        "g": "5beb30bb6ff1b20e",
+        "name": "Select Line function",
+        "func": "flow.set(\"selectedLine\", msg.payload);\nflow.set(\"RESET\", true);\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 440,
+        "wires": [
+            [
+                "f6f95d0bcc6bf0a4"
+            ]
+        ]
+    },
+    {
+        "id": "29b13950950e2827",
+        "type": "function",
+        "z": "1b108ac311e2e795",
+        "g": "5beb30bb6ff1b20e",
+        "name": "Define L1, L2, & L3",
+        "func": "// Create an array of resource keys and retrieve their values from global storage\nlet resources = [\"Resource1\", \"Resource2\", \"Resource3\"]\n    .map(key => global.get(key))  // Get the value of each resource from global context\n    .filter(res => res)  // Remove empty or null values\n    .map(res => ({       // Format the remaining values into dropdown options\n        \"label\": `Active Power - ${res}`,\n        \"value\": `Active Power - ${res}`\n    }));\n\n// Assign the processed resource list to msg.options for the dropdown\nmsg.options = resources;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 170,
+        "y": 440,
+        "wires": [
+            [
+                "349d410f9435491a"
+            ]
+        ]
+    },
+    {
+        "id": "c3b40a1544c0a175",
+        "type": "link in",
+        "z": "1b108ac311e2e795",
+        "g": "5beb30bb6ff1b20e",
+        "name": "Define Lines",
+        "links": [
+            "d34293b966266e31"
+        ],
+        "x": 195,
+        "y": 400,
+        "wires": [
+            [
+                "29b13950950e2827"
+            ]
+        ]
+    },
+    {
+        "id": "ec83a3ba480e41b7",
+        "type": "switch",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "",
+        "property": "payload.value[0].nodeId",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PowerMeter.ActivePowerL1.value",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PowerMeter.ActivePowerL2.value",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PowerMeter.ActivePowerL3.value",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 270,
+        "y": 220,
+        "wires": [
+            [
+                "c539040bc6c4f89d"
+            ],
+            [
+                "ab353279586f3d04"
+            ],
+            [
+                "a73c55f8c748a795"
+            ]
+        ]
+    },
+    {
+        "id": "ae22d328c73e2ec8",
+        "type": "ui-chart",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "group": "b3b365bbf6fcd6df",
+        "name": "Active Power",
+        "label": "Active Power",
+        "order": 1,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Watt",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "",
+        "ymax": "",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": "3",
+        "showLegend": true,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "100",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 6,
+        "height": 8,
+        "className": "",
+        "interpolation": "linear",
+        "x": 930,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0e2cfb83e166d863",
+        "type": "ui-text",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "group": "b3b365bbf6fcd6df",
+        "order": 4,
+        "width": 6,
+        "height": 0,
+        "name": "Average Value",
+        "label": "Current Average Value:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "style": false,
+        "font": "",
+        "fontSize": "",
+        "color": "#000000",
+        "wrapText": false,
+        "className": "",
+        "x": 940,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "66af69a313b8512d",
+        "type": "ui-chart",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "group": "b3b365bbf6fcd6df",
+        "name": "Average",
+        "label": "Average",
+        "order": 2,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Watt",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "",
+        "ymax": "",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": "3",
+        "showLegend": true,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "100",
+        "colors": [
+            "#4f7a28",
+            "#ff0000",
+            "#ff7f0e",
+            "#4f7a28",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 6,
+        "height": 8,
+        "className": "",
+        "interpolation": "linear",
+        "x": 920,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8e9a06731f91d677",
+        "type": "link in",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "Reset to Lines",
+        "links": [
+            "595e82efad6b6aea"
+        ],
+        "x": 805,
+        "y": 160,
+        "wires": [
+            [
+                "ae22d328c73e2ec8",
+                "0e2cfb83e166d863",
+                "66af69a313b8512d"
+            ]
+        ]
+    },
+    {
+        "id": "e4adb330d0f0ea67",
+        "type": "function",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "Calculate Average",
+        "func": "let selectedLines = flow.get(\"selectedLine\") || [];\n\n// Ensure selectedLines is an array\nif (!Array.isArray(selectedLines)) {\n    selectedLines = [];\n}\n\n// If no line is selected, do nothing and stop execution\nif (selectedLines.length === 0) {\n    return null;\n}\n\n// Retrieve global resource names\nlet Resource1 = global.get(\"Resource1\") || \"Resource1\";\nlet Resource2 = global.get(\"Resource2\") || \"Resource2\";\nlet Resource3 = global.get(\"Resource3\") || \"Resource3\";\n\nlet flowContextKeys = {\n    [`Active Power - ${Resource1}`]: \"ActivePowerL1\",\n    [`Active Power - ${Resource2}`]: \"ActivePowerL2\",\n    [`Active Power - ${Resource3}`]: \"ActivePowerL3\"\n};\n\n// Retrieve selected values from flow context\nlet currentValues = selectedLines\n    .map(lineLabel => flow.get(flowContextKeys[lineLabel]))\n    .filter(value => typeof value === \"number\");\n\n// If no valid numbers exist, return null to prevent display\nif (currentValues.length === 0) {\n    return null;\n}\n\n// Calculate average value\nlet average = (currentValues.reduce((sum, val) => sum + val, 0) / currentValues.length).toFixed(2);\n\nflow.set(\"average\", average);\nmsg.payload = average;\nmsg.topic = \"Average\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 120,
+        "wires": [
+            [
+                "0e2cfb83e166d863",
+                "66af69a313b8512d"
+            ]
+        ]
+    },
+    {
+        "id": "c539040bc6c4f89d",
+        "type": "change",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "ActivePowerL1",
+                "pt": "flow",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 180,
+        "wires": [
+            [
+                "b1ea26c4f77a4a8f"
+            ]
+        ]
+    },
+    {
+        "id": "7eca586eefe601e6",
+        "type": "function",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "Filter Data",
+        "func": "let selectedLines = flow.get(\"selectedLine\") || [];\n\n// Ensure selectedLines is an array\nif (!Array.isArray(selectedLines)) {\n    selectedLines = [];\n}\n\n// Only continue if msg.topic is defined and matches selected lines\nif (msg.topic && selectedLines.includes(msg.topic)) {\n    // Ensure payload is a number before rounding\n    let num = parseFloat(msg.payload);\n    if (!isNaN(num)) {\n        msg.payload = parseFloat(num.toFixed(4));\n        return msg;\n    }\n}\n\nreturn null; // Drop message if not valid",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 220,
+        "wires": [
+            [
+                "ae22d328c73e2ec8"
+            ]
+        ]
+    },
+    {
+        "id": "aa0789d25e9edf41",
+        "type": "function",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "Topic L3",
+        "func": "msg.topic = `Active Power - ${global.get(\"Resource3\") || \"Resource3\"}`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 260,
+        "wires": [
+            [
+                "7eca586eefe601e6"
+            ]
+        ]
+    },
+    {
+        "id": "ae60da4960d3b3e9",
+        "type": "function",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "Topic L2",
+        "func": "msg.topic = `Active Power - ${global.get(\"Resource2\") || \"Resource2\"}`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 220,
+        "wires": [
+            [
+                "7eca586eefe601e6"
+            ]
+        ]
+    },
+    {
+        "id": "b1ea26c4f77a4a8f",
+        "type": "function",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "Topic L1",
+        "func": "msg.topic = `Active Power - ${global.get(\"Resource1\") || \"Resource1\"}`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 180,
+        "wires": [
+            [
+                "7eca586eefe601e6"
+            ]
+        ]
+    },
+    {
+        "id": "ab353279586f3d04",
+        "type": "change",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "ActivePowerL2",
+                "pt": "flow",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 220,
+        "wires": [
+            [
+                "ae60da4960d3b3e9"
+            ]
+        ]
+    },
+    {
+        "id": "cfe2e99661fe431a",
+        "type": "link in",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "From OPC UA",
+        "links": [
+            "93761beb7ce940a2"
+        ],
+        "x": 185,
+        "y": 220,
+        "wires": [
+            [
+                "ec83a3ba480e41b7"
+            ]
+        ]
+    },
+    {
+        "id": "e61a95be04c973aa",
+        "type": "inject",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 250,
+        "y": 120,
+        "wires": [
+            [
+                "e4adb330d0f0ea67"
+            ]
+        ]
+    },
+    {
+        "id": "ca65e2179dfeb0f5",
+        "type": "comment",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "Graphs",
+        "info": "",
+        "x": 110,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "a73c55f8c748a795",
+        "type": "change",
+        "z": "1b108ac311e2e795",
+        "g": "cf6169ae1b74fa7f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "ActivePowerL3",
+                "pt": "flow",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 260,
+        "wires": [
+            [
+                "aa0789d25e9edf41"
+            ]
+        ]
+    },
+    {
+        "id": "0500c09aea14fc78",
+        "type": "inject",
+        "z": "1b108ac311e2e795",
+        "g": "c37d86fb5ad5e664",
+        "name": "Drop",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "DROP TABLE IF EXISTS ActivePowerLog;",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 700,
+        "wires": [
+            [
+                "afb0f36848ade3d6"
+            ]
+        ]
+    },
+    {
+        "id": "188a0794c8e87e81",
+        "type": "ui-dropdown",
+        "z": "2423aec0038d214f",
+        "g": "d9da090e25443aa6",
+        "group": "b02d226c022eb354",
+        "name": "Select Line",
+        "label": "Choose Line",
+        "order": 3,
+        "width": 6,
+        "height": 1,
+        "passthru": true,
+        "multiple": true,
+        "chips": false,
+        "clearable": false,
+        "options": [],
+        "topic": "",
+        "topicType": "str",
+        "className": "",
+        "typeIsComboBox": true,
+        "msgTrigger": "onChange",
+        "x": 370,
+        "y": 440,
+        "wires": [
+            [
+                "cc256792ad48c187"
+            ]
+        ]
+    },
+    {
+        "id": "1349a5a617a95c38",
+        "type": "ui-button",
+        "z": "2423aec0038d214f",
+        "g": "d9da090e25443aa6",
+        "group": "b02d226c022eb354",
+        "name": "",
+        "label": "RESET",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "iconPosition": "left",
+        "payload": "RESET",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "buttonColor": "#4A4A4A",
+        "textColor": "#FFFFFF",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 420,
+        "y": 400,
+        "wires": [
+            [
+                "c34cd68ce1fe9cbd"
+            ]
+        ]
+    },
+    {
+        "id": "c7eead12425708f4",
+        "type": "function",
+        "z": "2423aec0038d214f",
+        "g": "d9da090e25443aa6",
+        "name": "to Reset",
+        "func": "let reset = flow.get(\"RESET\") || false;\n\nif (reset === true || msg.payload){\n    msg.payload = [];\n    flow.set(\"average\", null);\n    flow.set(\"RESET\", false);\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 420,
+        "wires": [
+            [
+                "94c5379c64feeb9f"
+            ]
+        ]
+    },
+    {
+        "id": "94c5379c64feeb9f",
+        "type": "link out",
+        "z": "2423aec0038d214f",
+        "g": "d9da090e25443aa6",
+        "name": "To Reset",
+        "mode": "link",
+        "links": [
+            "042c7b8ecf3566be"
+        ],
+        "x": 855,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "c34cd68ce1fe9cbd",
+        "type": "trigger",
+        "z": "2423aec0038d214f",
+        "g": "d9da090e25443aa6",
+        "name": "",
+        "op1": "true",
+        "op2": "false",
+        "op1type": "bool",
+        "op2type": "bool",
+        "duration": "250",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "ms",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 600,
+        "y": 400,
+        "wires": [
+            [
+                "c7eead12425708f4"
+            ]
+        ]
+    },
+    {
+        "id": "7165e8c1a9ef4864",
+        "type": "sqlite",
+        "z": "2423aec0038d214f",
+        "g": "e906c35c9b1fb59a",
+        "mydb": "6943bf753b6f05d3",
+        "sqlquery": "msg.topic",
+        "sql": "show tables;",
+        "name": "EMB",
+        "x": 730,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2f5611016848675a",
+        "type": "function",
+        "z": "2423aec0038d214f",
+        "g": "e906c35c9b1fb59a",
+        "name": "Create Flow Log tbl",
+        "func": "msg.topic = `\n    CREATE TABLE IF NOT EXISTS FlowLog (\n        id INTEGER PRIMARY KEY AUTOINCREMENT,\n        timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,\n        FlowL1 REAL,\n        FlowL2 REAL,\n        FlowL3 REAL\n    );\n`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 580,
+        "wires": [
+            [
+                "7165e8c1a9ef4864"
+            ]
+        ]
+    },
+    {
+        "id": "73dce210508fadeb",
+        "type": "function",
+        "z": "2423aec0038d214f",
+        "g": "e906c35c9b1fb59a",
+        "name": "Insert/Overwrite data",
+        "func": "let FlowL1 = flow.get(\"FlowL1\") || 0;\nlet FlowL2 = flow.get(\"FlowL2\") || 0;\nlet FlowL3 = flow.get(\"FlowL3\") || 0;\n\nmsg.topic = `\n    INSERT INTO FlowLog (timestamp, FlowL1, FlowL2, FlowL3) \n    VALUES (datetime('now'), ${FlowL1}, ${FlowL2}, ${FlowL3});\n`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 620,
+        "wires": [
+            [
+                "7165e8c1a9ef4864"
+            ]
+        ]
+    },
+    {
+        "id": "739fdc118c6780ab",
+        "type": "function",
+        "z": "2423aec0038d214f",
+        "g": "e906c35c9b1fb59a",
+        "name": "Overwrite data after a month",
+        "func": "let timeLimit = 2592000; // 30 days in seconds\n\nmsg.topic = `\n    DELETE FROM FlowLog \n    WHERE timestamp < (strftime('%s','now') - ${timeLimit});\n`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 660,
+        "wires": [
+            [
+                "7165e8c1a9ef4864"
+            ]
+        ]
+    },
+    {
+        "id": "afef9ab6555f9b65",
+        "type": "inject",
+        "z": "2423aec0038d214f",
+        "g": "e906c35c9b1fb59a",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 620,
+        "wires": [
+            [
+                "739fdc118c6780ab",
+                "2f5611016848675a",
+                "73dce210508fadeb"
+            ]
+        ]
+    },
+    {
+        "id": "e147d0891ee7889e",
+        "type": "comment",
+        "z": "2423aec0038d214f",
+        "g": "d9da090e25443aa6",
+        "name": "Buttons & Lines",
+        "info": "",
+        "x": 140,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "14d0030d76f0356b",
+        "type": "comment",
+        "z": "2423aec0038d214f",
+        "g": "e906c35c9b1fb59a",
+        "name": "Database",
+        "info": "",
+        "x": 120,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "cc256792ad48c187",
+        "type": "function",
+        "z": "2423aec0038d214f",
+        "g": "d9da090e25443aa6",
+        "name": "Select Line function",
+        "func": "flow.set(\"selectedLine\", msg.payload);\nflow.set(\"RESET\", true);\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 440,
+        "wires": [
+            [
+                "c7eead12425708f4"
+            ]
+        ]
+    },
+    {
+        "id": "fcb11f1ff7c03cdc",
+        "type": "function",
+        "z": "2423aec0038d214f",
+        "g": "d9da090e25443aa6",
+        "name": "Define L1, L2, & L3",
+        "func": "// Create an array of resource keys and retrieve their values from global storage\nlet resources = [\"Resource1\", \"Resource2\", \"Resource3\"]\n    .map(key => global.get(key))  // Get the value of each resource from global context\n    .filter(res => res)  // Remove empty or null values\n    .map(res => ({       // Format the remaining values into dropdown options\n        \"label\": `Flow - ${res}`,\n        \"value\": `Flow - ${res}`\n    }));\n\n// Assign the processed resource list to msg.options for the dropdown\nmsg.options = resources;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 170,
+        "y": 440,
+        "wires": [
+            [
+                "188a0794c8e87e81"
+            ]
+        ]
+    },
+    {
+        "id": "2c1bd40bc4e86ba2",
+        "type": "link in",
+        "z": "2423aec0038d214f",
+        "g": "d9da090e25443aa6",
+        "name": "Define Lines",
+        "links": [
+            "d34293b966266e31"
+        ],
+        "x": 195,
+        "y": 400,
+        "wires": [
+            [
+                "fcb11f1ff7c03cdc"
+            ]
+        ]
+    },
+    {
+        "id": "253233ec960afb29",
+        "type": "function",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "Filter Data",
+        "func": "let selectedLines = flow.get(\"selectedLine\") || [];\n\n// Ensure selectedLines is an array\nif (!Array.isArray(selectedLines)) {\n    selectedLines = [];\n}\n\n// Only continue if msg.topic is defined and matches selected lines\nif (msg.topic && selectedLines.includes(msg.topic)) {\n    // Ensure payload is a number before rounding\n    let num = parseFloat(msg.payload);\n    if (!isNaN(num)) {\n        msg.payload = parseFloat(num.toFixed(4));\n        return msg;\n    }\n}\n\nreturn null; // Drop message if not valid",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 220,
+        "wires": [
+            [
+                "21c03cecd00194ac"
+            ]
+        ]
+    },
+    {
+        "id": "21c03cecd00194ac",
+        "type": "ui-chart",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "group": "b02d226c022eb354",
+        "name": "Flow",
+        "label": "Flow",
+        "order": 1,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Litre/min",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "",
+        "ymax": "",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": "3",
+        "showLegend": true,
+        "removeOlder": "30",
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "100",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 6,
+        "height": 8,
+        "className": "",
+        "interpolation": "linear",
+        "x": 910,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f48329c4276f9947",
+        "type": "function",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "Calculate Average",
+        "func": "let selectedLines = flow.get(\"selectedLine\") || [];\n\n// Ensure selectedLines is an array\nif (!Array.isArray(selectedLines)) {\n    selectedLines = [];\n}\n\n// If no line is selected, do nothing and stop execution\nif (selectedLines.length === 0) {\n    return null;\n}\n\n// Retrieve global resource names\nlet Resource1 = global.get(\"Resource1\") || \"Resource1\";\nlet Resource2 = global.get(\"Resource2\") || \"Resource2\";\nlet Resource3 = global.get(\"Resource3\") || \"Resource3\";\n\nlet flowContextKeys = {\n    [`Flow - ${Resource1}`]: \"FlowL1\",\n    [`Flow - ${Resource2}`]: \"FlowL2\",\n    [`Flow - ${Resource3}`]: \"FlowL3\"\n};\n\n// Retrieve selected values from flow context\nlet currentValues = selectedLines\n    .map(lineLabel => flow.get(flowContextKeys[lineLabel]))\n    .filter(value => typeof value === \"number\");\n\n// If no valid numbers exist, return null to prevent display\nif (currentValues.length === 0) {\n    return null;\n}\n\n// Calculate average value\nlet average = (currentValues.reduce((sum, val) => sum + val, 0) / currentValues.length).toFixed(2);\n\nflow.set(\"average\", average);\nmsg.payload = average;\nmsg.topic = \"Average\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 120,
+        "wires": [
+            [
+                "fcfb153c41ba6667",
+                "8ad79e1c8ec66f59"
+            ]
+        ]
+    },
+    {
+        "id": "fcfb153c41ba6667",
+        "type": "ui-text",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "group": "b02d226c022eb354",
+        "order": 4,
+        "width": 6,
+        "height": 0,
+        "name": "Average Value",
+        "label": "Current Average Value:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "style": false,
+        "font": "",
+        "fontSize": "",
+        "color": "#000000",
+        "wrapText": false,
+        "className": "",
+        "x": 940,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "8ad79e1c8ec66f59",
+        "type": "ui-chart",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "group": "b02d226c022eb354",
+        "name": "Average",
+        "label": "Average",
+        "order": 2,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Litre/min",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "",
+        "ymax": "",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": "3",
+        "showLegend": true,
+        "removeOlder": 1,
+        "removeOlderUnit": "3600",
+        "removeOlderPoints": "100",
+        "colors": [
+            "#4f7a28",
+            "#ff0000",
+            "#ff7f0e",
+            "#4f7a28",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 6,
+        "height": 8,
+        "className": "",
+        "interpolation": "linear",
+        "x": 920,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "042c7b8ecf3566be",
+        "type": "link in",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "Reset to Lines",
+        "links": [
+            "94c5379c64feeb9f"
+        ],
+        "x": 805,
+        "y": 160,
+        "wires": [
+            [
+                "21c03cecd00194ac",
+                "fcfb153c41ba6667",
+                "8ad79e1c8ec66f59"
+            ]
+        ]
+    },
+    {
+        "id": "0d47de677a953f11",
+        "type": "change",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "FlowL1",
+                "pt": "flow",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 180,
+        "wires": [
+            [
+                "07b41c0eb08f70b9"
+            ]
+        ]
+    },
+    {
+        "id": "85eb3787551860eb",
+        "type": "change",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "FlowL2",
+                "pt": "flow",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 220,
+        "wires": [
+            [
+                "ead10fb1df50c8e5"
+            ]
+        ]
+    },
+    {
+        "id": "10de8ba15912b12f",
+        "type": "change",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "FlowL3",
+                "pt": "flow",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 260,
+        "wires": [
+            [
+                "a42436cba03d7e29"
+            ]
+        ]
+    },
+    {
+        "id": "a42436cba03d7e29",
+        "type": "function",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "Topic L3",
+        "func": "msg.topic = `Flow - ${global.get(\"Resource3\") || \"Resource3\"}`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 260,
+        "wires": [
+            [
+                "253233ec960afb29"
+            ]
+        ]
+    },
+    {
+        "id": "ead10fb1df50c8e5",
+        "type": "function",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "Topic L2",
+        "func": "msg.topic = `Flow - ${global.get(\"Resource2\") || \"Resource2\"}`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 220,
+        "wires": [
+            [
+                "253233ec960afb29"
+            ]
+        ]
+    },
+    {
+        "id": "07b41c0eb08f70b9",
+        "type": "function",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "Topic L1",
+        "func": "msg.topic = `Flow - ${global.get(\"Resource1\") || \"Resource1\"}`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 180,
+        "wires": [
+            [
+                "253233ec960afb29"
+            ]
+        ]
+    },
+    {
+        "id": "17237be5eb21d119",
+        "type": "switch",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "",
+        "property": "payload.value[0].nodeId",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.FlowSensor.Flow1.value",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.FlowSensor.Flow2.value",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.FlowSensor.Flow3.value",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 270,
+        "y": 220,
+        "wires": [
+            [
+                "0d47de677a953f11"
+            ],
+            [
+                "85eb3787551860eb"
+            ],
+            [
+                "10de8ba15912b12f"
+            ]
+        ]
+    },
+    {
+        "id": "4e25615a39b21b65",
+        "type": "link in",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "From OPC UA",
+        "links": [
+            "93761beb7ce940a2"
+        ],
+        "x": 185,
+        "y": 220,
+        "wires": [
+            [
+                "17237be5eb21d119"
+            ]
+        ]
+    },
+    {
+        "id": "d9ceec1eaef7bc0e",
+        "type": "inject",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 250,
+        "y": 120,
+        "wires": [
+            [
+                "f48329c4276f9947"
+            ]
+        ]
+    },
+    {
+        "id": "70287e57d22ef9eb",
+        "type": "comment",
+        "z": "2423aec0038d214f",
+        "g": "e7563c533ae2d4c4",
+        "name": "Graphs",
+        "info": "",
+        "x": 110,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "b9a6b8c90eac4cbe",
+        "type": "inject",
+        "z": "2423aec0038d214f",
+        "g": "e906c35c9b1fb59a",
+        "name": "Drop",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "DROP TABLE IF EXISTS FlowLog;",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 700,
+        "wires": [
+            [
+                "7165e8c1a9ef4864"
+            ]
+        ]
+    },
+    {
+        "id": "0c980275658492d8",
+        "type": "ui-button",
+        "z": "4c1437878101c650",
+        "g": "6461491bafab771a",
+        "group": "7a05cf576cb54b0c",
+        "name": "",
+        "label": "RESET",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "iconPosition": "left",
+        "payload": "RESET",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "buttonColor": "#4A4A4A",
+        "textColor": "#FFFFFF",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 420,
+        "y": 400,
+        "wires": [
+            [
+                "37c95a83f00af6a6"
+            ]
+        ]
+    },
+    {
+        "id": "bfce3221d352bbb0",
+        "type": "function",
+        "z": "4c1437878101c650",
+        "g": "6461491bafab771a",
+        "name": "to Reset",
+        "func": "let reset = flow.get(\"RESET\") || false;\n\nif (reset === true || msg.payload){\n    msg.payload = [];\n    flow.set(\"average\", null);\n    flow.set(\"RESET\", false);\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 420,
+        "wires": [
+            [
+                "38e9589e6fa26133"
+            ]
+        ]
+    },
+    {
+        "id": "38e9589e6fa26133",
+        "type": "link out",
+        "z": "4c1437878101c650",
+        "g": "6461491bafab771a",
+        "name": "to Reset",
+        "mode": "link",
+        "links": [
+            "ee288387f5106e5f"
+        ],
+        "x": 855,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "37c95a83f00af6a6",
+        "type": "trigger",
+        "z": "4c1437878101c650",
+        "g": "6461491bafab771a",
+        "name": "",
+        "op1": "true",
+        "op2": "false",
+        "op1type": "bool",
+        "op2type": "bool",
+        "duration": "250",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "ms",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 600,
+        "y": 400,
+        "wires": [
+            [
+                "bfce3221d352bbb0"
+            ]
+        ]
+    },
+    {
+        "id": "cf6277ea3da726ff",
+        "type": "sqlite",
+        "z": "4c1437878101c650",
+        "g": "dc8b91eef617bb79",
+        "mydb": "6943bf753b6f05d3",
+        "sqlquery": "msg.topic",
+        "sql": "show tables;",
+        "name": "EMB",
+        "x": 730,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2ba62387770d0afb",
+        "type": "function",
+        "z": "4c1437878101c650",
+        "g": "dc8b91eef617bb79",
+        "name": "Create Pressure Log tbl",
+        "func": "msg.topic = `\n    CREATE TABLE IF NOT EXISTS PressureLog (\n        id INTEGER PRIMARY KEY AUTOINCREMENT,\n        timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,\n        PressureL1 REAL,\n        PressureL2 REAL,\n        PressureL3 REAL\n    );\n`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 580,
+        "wires": [
+            [
+                "cf6277ea3da726ff"
+            ]
+        ]
+    },
+    {
+        "id": "15a2591b1c3a75f6",
+        "type": "function",
+        "z": "4c1437878101c650",
+        "g": "dc8b91eef617bb79",
+        "name": "Insert/Overwrite data",
+        "func": "let PressureL1 = flow.get(\"PressureL1\") || 0;\nlet PressureL2 = flow.get(\"PressureL2\") || 0;\nlet PressureL3 = flow.get(\"PressureL3\") || 0;\n\nmsg.topic = `\n    INSERT INTO PressureLog (timestamp, PressureL1, PressureL2, PressureL3) \n    VALUES (datetime('now'), ${PressureL1}, ${PressureL2}, ${PressureL3});\n`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 620,
+        "wires": [
+            [
+                "cf6277ea3da726ff"
+            ]
+        ]
+    },
+    {
+        "id": "92141a3b7949d055",
+        "type": "function",
+        "z": "4c1437878101c650",
+        "g": "dc8b91eef617bb79",
+        "name": "Overwrite data after a month",
+        "func": "let timeLimit = 2592000; // 30 days in seconds\n\nmsg.topic = `\n    DELETE FROM PressureLog \n    WHERE timestamp < (strftime('%s','now') - ${timeLimit});\n`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 660,
+        "wires": [
+            [
+                "cf6277ea3da726ff"
+            ]
+        ]
+    },
+    {
+        "id": "6947732fced243c4",
+        "type": "inject",
+        "z": "4c1437878101c650",
+        "g": "dc8b91eef617bb79",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 620,
+        "wires": [
+            [
+                "92141a3b7949d055",
+                "15a2591b1c3a75f6",
+                "2ba62387770d0afb"
+            ]
+        ]
+    },
+    {
+        "id": "9e99e30be4e208c5",
+        "type": "comment",
+        "z": "4c1437878101c650",
+        "g": "6461491bafab771a",
+        "name": "Buttons & Lines",
+        "info": "",
+        "x": 140,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "129758c0903562ae",
+        "type": "comment",
+        "z": "4c1437878101c650",
+        "g": "dc8b91eef617bb79",
+        "name": "Database",
+        "info": "",
+        "x": 120,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "ba2d2c3728765757",
+        "type": "function",
+        "z": "4c1437878101c650",
+        "g": "6461491bafab771a",
+        "name": "Select Line function",
+        "func": "flow.set(\"selectedLine\", msg.payload);\nflow.set(\"RESET\", true);\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 440,
+        "wires": [
+            [
+                "bfce3221d352bbb0"
+            ]
+        ]
+    },
+    {
+        "id": "065dd52318a019c2",
+        "type": "ui-dropdown",
+        "z": "4c1437878101c650",
+        "g": "6461491bafab771a",
+        "group": "7a05cf576cb54b0c",
+        "name": "Select Line",
+        "label": "Choose Line",
+        "order": 3,
+        "width": 6,
+        "height": 1,
+        "passthru": true,
+        "multiple": true,
+        "chips": false,
+        "clearable": false,
+        "options": [],
+        "topic": "",
+        "topicType": "str",
+        "className": "",
+        "typeIsComboBox": true,
+        "msgTrigger": "onChange",
+        "x": 370,
+        "y": 440,
+        "wires": [
+            [
+                "ba2d2c3728765757"
+            ]
+        ]
+    },
+    {
+        "id": "1e0c2e4c43269991",
+        "type": "function",
+        "z": "4c1437878101c650",
+        "g": "6461491bafab771a",
+        "name": "Define L1, L2, & L3",
+        "func": "// Create an array of resource keys and retrieve their values from global storage\nlet resources = [\"Resource1\", \"Resource2\", \"Resource3\"]\n    .map(key => global.get(key))  // Get the value of each resource from global context\n    .filter(res => res)  // Remove empty or null values\n    .map(res => ({       // Format the remaining values into dropdown options\n        \"label\": `Pressure - ${res}`,\n        \"value\": `Pressure - ${res}`\n    }));\n\n// Assign the processed resource list to msg.options for the dropdown\nmsg.options = resources;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 170,
+        "y": 440,
+        "wires": [
+            [
+                "065dd52318a019c2"
+            ]
+        ]
+    },
+    {
+        "id": "7d2fbffef28092b2",
+        "type": "link in",
+        "z": "4c1437878101c650",
+        "g": "6461491bafab771a",
+        "name": "Define Lines",
+        "links": [
+            "d34293b966266e31"
+        ],
+        "x": 195,
+        "y": 400,
+        "wires": [
+            [
+                "1e0c2e4c43269991"
+            ]
+        ]
+    },
+    {
+        "id": "a07a65f172dc278c",
+        "type": "ui-chart",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "group": "7a05cf576cb54b0c",
+        "name": "Pressure",
+        "label": "Pressure",
+        "order": 1,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Bar",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "",
+        "ymax": "",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": "3",
+        "showLegend": true,
+        "removeOlder": "30",
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "100",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 6,
+        "height": 8,
+        "className": "",
+        "interpolation": "linear",
+        "x": 920,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "835026a3198ec43c",
+        "type": "ui-text",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "group": "7a05cf576cb54b0c",
+        "order": 4,
+        "width": 6,
+        "height": 0,
+        "name": "Average Value",
+        "label": "Current Average Value:",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "style": false,
+        "font": "",
+        "fontSize": "",
+        "color": "#000000",
+        "wrapText": false,
+        "className": "",
+        "x": 940,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "b62f087f0abe238e",
+        "type": "ui-chart",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "group": "7a05cf576cb54b0c",
+        "name": "Average",
+        "label": "Average",
+        "order": 2,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Bar",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "",
+        "ymax": "",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": "3",
+        "showLegend": true,
+        "removeOlder": "30",
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "100",
+        "colors": [
+            "#4f7a28",
+            "#ff0000",
+            "#ff7f0e",
+            "#4f7a28",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 6,
+        "height": 8,
+        "className": "",
+        "interpolation": "linear",
+        "x": 920,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ee288387f5106e5f",
+        "type": "link in",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "Reset to Lines",
+        "links": [
+            "38e9589e6fa26133"
+        ],
+        "x": 805,
+        "y": 160,
+        "wires": [
+            [
+                "a07a65f172dc278c",
+                "835026a3198ec43c",
+                "b62f087f0abe238e"
+            ]
+        ]
+    },
+    {
+        "id": "0784b00d2a90274a",
+        "type": "function",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "Filter Data",
+        "func": "let selectedLines = flow.get(\"selectedLine\") || [];\n\n// Ensure selectedLines is an array\nif (!Array.isArray(selectedLines)) {\n    selectedLines = [];\n}\n\n// Only continue if msg.topic is defined and matches selected lines\nif (msg.topic && selectedLines.includes(msg.topic)) {\n    // Ensure payload is a number before rounding\n    let num = parseFloat(msg.payload);\n    if (!isNaN(num)) {\n        msg.payload = parseFloat(num.toFixed(4));\n        return msg;\n    }\n}\n\nreturn null; // Drop message if not valid",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 220,
+        "wires": [
+            [
+                "a07a65f172dc278c"
+            ]
+        ]
+    },
+    {
+        "id": "b16a0414ebfabb26",
+        "type": "switch",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "",
+        "property": "payload.value[0].nodeId",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PressureSensor.Pressure1.value",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PressureSensor.Pressure2.value",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "ns=4;s=|var|CPX-E-CEC-C1.Application.GVL.PressureSensor.Pressure3.value",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 270,
+        "y": 220,
+        "wires": [
+            [
+                "9183096907318d3d"
+            ],
+            [
+                "433546f9f604eb8c"
+            ],
+            [
+                "4bdeecb03f5e9db8"
+            ]
+        ]
+    },
+    {
+        "id": "9183096907318d3d",
+        "type": "change",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "PressureL1",
+                "pt": "flow",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 180,
+        "wires": [
+            [
+                "e145dda9fd36646d"
+            ]
+        ]
+    },
+    {
+        "id": "433546f9f604eb8c",
+        "type": "change",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "PressureL2",
+                "pt": "flow",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 220,
+        "wires": [
+            [
+                "01b7db9b5b036dbf"
+            ]
+        ]
+    },
+    {
+        "id": "4bdeecb03f5e9db8",
+        "type": "change",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "PressureL3",
+                "pt": "flow",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value[0].value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 260,
+        "wires": [
+            [
+                "44859d6a6bf23b85"
+            ]
+        ]
+    },
+    {
+        "id": "87363b733bd19118",
+        "type": "function",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "Calculate Average",
+        "func": "let selectedLines = flow.get(\"selectedLine\") || [];\n\n// Ensure selectedLines is an array\nif (!Array.isArray(selectedLines)) {\n    selectedLines = [];\n}\n\n// If no line is selected, do nothing and stop execution\nif (selectedLines.length === 0) {\n    return null;\n}\n\n// Retrieve global resource names\nlet Resource1 = global.get(\"Resource1\") || \"Resource1\";\nlet Resource2 = global.get(\"Resource2\") || \"Resource2\";\nlet Resource3 = global.get(\"Resource3\") || \"Resource3\";\n\nlet flowContextKeys = {\n    [`Pressure - ${Resource1}`]: \"PressureL1\",\n    [`Pressure - ${Resource2}`]: \"PressureL2\",\n    [`Pressure - ${Resource3}`]: \"PressureL3\"\n};\n\n// Retrieve selected values from flow context\nlet currentValues = selectedLines\n    .map(lineLabel => flow.get(flowContextKeys[lineLabel]))\n    .filter(value => typeof value === \"number\");\n\n// If no valid numbers exist, return null to prevent display\nif (currentValues.length === 0) {\n    return null;\n}\n\n// Calculate average value\nlet average = (currentValues.reduce((sum, val) => sum + val, 0) / currentValues.length).toFixed(2);\n\nflow.set(\"average\", average);\nmsg.payload = average;\nmsg.topic = \"Average\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 120,
+        "wires": [
+            [
+                "b62f087f0abe238e",
+                "835026a3198ec43c"
+            ]
+        ]
+    },
+    {
+        "id": "44859d6a6bf23b85",
+        "type": "function",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "Topic L3",
+        "func": "msg.topic = `Pressure - ${global.get(\"Resource3\") || \"Resource3\"}`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 260,
+        "wires": [
+            [
+                "0784b00d2a90274a"
+            ]
+        ]
+    },
+    {
+        "id": "01b7db9b5b036dbf",
+        "type": "function",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "Topic L2",
+        "func": "msg.topic = `Pressure - ${global.get(\"Resource2\") || \"Resource2\"}`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 220,
+        "wires": [
+            [
+                "0784b00d2a90274a"
+            ]
+        ]
+    },
+    {
+        "id": "e145dda9fd36646d",
+        "type": "function",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "Topic L1",
+        "func": "msg.topic = `Pressure - ${global.get(\"Resource1\") || \"Resource1\"}`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 180,
+        "wires": [
+            [
+                "0784b00d2a90274a"
+            ]
+        ]
+    },
+    {
+        "id": "a619286b7c38d7bc",
+        "type": "link in",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "From OPC UA",
+        "links": [
+            "93761beb7ce940a2"
+        ],
+        "x": 185,
+        "y": 220,
+        "wires": [
+            [
+                "b16a0414ebfabb26"
+            ]
+        ]
+    },
+    {
+        "id": "37c9d22a3a171320",
+        "type": "inject",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 250,
+        "y": 120,
+        "wires": [
+            [
+                "87363b733bd19118"
+            ]
+        ]
+    },
+    {
+        "id": "b576c2adba183b5b",
+        "type": "comment",
+        "z": "4c1437878101c650",
+        "g": "b42762c0e39a1b4e",
+        "name": "Graphs",
+        "info": "",
+        "x": 110,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "8d56faf687399443",
+        "type": "inject",
+        "z": "4c1437878101c650",
+        "g": "dc8b91eef617bb79",
+        "name": "Drop",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "DROP TABLE IF EXISTS PressureLog;",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 700,
+        "wires": [
+            [
+                "cf6277ea3da726ff"
+            ]
+        ]
+    }
+]
