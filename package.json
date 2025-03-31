@@ -1,6 +1,6 @@
 {
-    "name": "node-red-project",
-    "description": "A Node-RED Project",
+    "name": "dsl-node-red-energy-measurement",
+    "description": "A Node-RED flow for real-time energy and air consumption monitoring with OPC UA integration.",   
     "version": "0.0.1",
     "private": true,
     "dependencies": {
